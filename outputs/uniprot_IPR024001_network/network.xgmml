@@ -1,0 +1,1920 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graph label="Sequence Similarity Network" directed="0" xmlns="http://www.cs.rpi.edu/XGMML" xmlns:cy="http://www.cytoscape.org">
+  <att name="description" type="string" value="Protein sequence similarity network generated from all-vs-all BLASTP." />
+  <node id="A0A089MGG8" label="A0A089MGG8">
+    <att name="accession" type="string" value="A0A089MGG8" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Paenibacillus graminis" />
+    <att name="length" type="integer" value="474" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="2" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="6" />
+    <graphics type="ELLIPSE" x="1964.232" y="-2512.728" w="35.341" h="35.341" fill="#ff7f0e" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A090Y6L5" label="A0A090Y6L5">
+    <att name="accession" type="string" value="A0A090Y6L5" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Paenibacillus macerans (Bacillus macerans)" />
+    <att name="length" type="integer" value="482" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="9" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="124.769" y="-123.271" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A132U102" label="A0A132U102">
+    <att name="accession" type="string" value="A0A132U102" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Paenibacillus riograndensis" />
+    <att name="length" type="integer" value="474" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="2" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="6" />
+    <graphics type="ELLIPSE" x="1864.512" y="-2019.240" w="35.341" h="35.341" fill="#ff7f0e" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A1B7XFM5" label="A0A1B7XFM5">
+    <att name="accession" type="string" value="A0A1B7XFM5" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Halodesulfovibrio spirochaetisodalis" />
+    <att name="length" type="integer" value="472" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="10" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="124.769" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A1I5BIG8" label="A0A1I5BIG8">
+    <att name="accession" type="string" value="A0A1I5BIG8" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Anaerocolumna aminovalerica" />
+    <att name="length" type="integer" value="470" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="11" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="217.771" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A1I5HLK3" label="A0A1I5HLK3">
+    <att name="accession" type="string" value="A0A1I5HLK3" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Anaerocolumna aminovalerica" />
+    <att name="length" type="integer" value="462" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="12" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="310.774" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A1I6ID59" label="A0A1I6ID59">
+    <att name="accession" type="string" value="A0A1I6ID59" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Anaeromicropila populeti" />
+    <att name="length" type="integer" value="468" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="13" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="403.769" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A1M5Q6V5" label="A0A1M5Q6V5">
+    <att name="accession" type="string" value="A0A1M5Q6V5" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Butyrivibrio fibrisolvens DSM 3071" />
+    <att name="length" type="integer" value="475" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="14" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="496.771" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A1M5Q7S6" label="A0A1M5Q7S6">
+    <att name="accession" type="string" value="A0A1M5Q7S6" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Butyrivibrio fibrisolvens DSM 3071" />
+    <att name="length" type="integer" value="472" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="6" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="2" />
+    <graphics type="ELLIPSE" x="1895.472" y="-219.974" w="35.341" h="35.341" fill="#8c564b" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A1M5WBP3" label="A0A1M5WBP3">
+    <att name="accession" type="string" value="A0A1M5WBP3" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Sporobacter termitidis DSM 10068" />
+    <att name="length" type="integer" value="469" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="3" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="4" />
+    <graphics type="ELLIPSE" x="1023.912" y="-2322.072" w="35.341" h="35.341" fill="#2ca02c" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A1M5ZFC1" label="A0A1M5ZFC1">
+    <att name="accession" type="string" value="A0A1M5ZFC1" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Sporobacter termitidis DSM 10068" />
+    <att name="length" type="integer" value="470" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="15" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="589.774" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A1M6DMP5" label="A0A1M6DMP5">
+    <att name="accession" type="string" value="A0A1M6DMP5" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Lutispora thermophila DSM 19022" />
+    <att name="length" type="integer" value="482" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="5" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="1042.272" y="-609.991" w="44.416" h="44.416" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A1M6IUT3" label="A0A1M6IUT3">
+    <att name="accession" type="string" value="A0A1M6IUT3" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Clostridium cavendishii DSM 21758" />
+    <att name="length" type="integer" value="487" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="5" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="1030.824" y="-1114.704" w="44.416" h="44.416" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A1M6R452" label="A0A1M6R452">
+    <att name="accession" type="string" value="A0A1M6R452" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Clostridium cavendishii DSM 21758" />
+    <att name="length" type="integer" value="475" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="2" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="239.018" y="-1421.784" w="38.382" h="38.382" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A1S8MEP9" label="A0A1S8MEP9">
+    <att name="accession" type="string" value="A0A1S8MEP9" />
+    <att name="protein_name" type="string" value="GTP 3',8-cyclase" />
+    <att name="organism" type="string" value="Clostridium felsineum" />
+    <att name="length" type="integer" value="470" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="16" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="682.769" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A1V4SIV9" label="A0A1V4SIV9">
+    <att name="accession" type="string" value="A0A1V4SIV9" />
+    <att name="protein_name" type="string" value="Anaerobic sulfatase-maturating enzyme (EC 1.1.99.-)" />
+    <att name="organism" type="string" value="Ruminiclostridium hungatei (Clostridium hungatei)" />
+    <att name="length" type="integer" value="500" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="1.1.99.-" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="3" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="680.551" y="-653.897" w="40.716" h="40.716" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A222WTU8" label="A0A222WTU8">
+    <att name="accession" type="string" value="A0A222WTU8" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Paenibacillus kribbensis" />
+    <att name="length" type="integer" value="485" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="2" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="2090.232" y="-1012.824" w="38.382" h="38.382" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A2G7HJP2" label="A0A2G7HJP2">
+    <att name="accession" type="string" value="A0A2G7HJP2" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Clostridium combesii" />
+    <att name="length" type="integer" value="477" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="2" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="1032.984" y="-314.525" w="38.382" h="38.382" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A2G7HK26" label="A0A2G7HK26">
+    <att name="accession" type="string" value="A0A2G7HK26" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Clostridium combesii" />
+    <att name="length" type="integer" value="476" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="17" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="341.770" y="-1797.264" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A2Y9BCU3" label="A0A2Y9BCU3">
+    <att name="accession" type="string" value="A0A2Y9BCU3" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Faecalicatena orotica" />
+    <att name="length" type="integer" value="474" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="18" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="775.800" y="-216.266" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A2Z2KGL7" label="A0A2Z2KGL7">
+    <att name="accession" type="string" value="A0A2Z2KGL7" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Paenibacillus donghaensis" />
+    <att name="length" type="integer" value="474" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="19" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="868.752" y="-216.266" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A316AEB4" label="A0A316AEB4">
+    <att name="accession" type="string" value="A0A316AEB4" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Faecalicatena contorta" />
+    <att name="length" type="integer" value="470" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="5" />
+    <att name="degree" type="integer" value="2" />
+    <att name="component_size" type="integer" value="3" />
+    <graphics type="ELLIPSE" x="1453.464" y="-221.522" w="38.382" h="38.382" fill="#9467bd" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A318XIS8" label="A0A318XIS8">
+    <att name="accession" type="string" value="A0A318XIS8" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Ruminiclostridium sufflavum DSM 19573" />
+    <att name="length" type="integer" value="464" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="1298.160" y="-1195.488" w="35.341" h="35.341" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A318XNJ9" label="A0A318XNJ9">
+    <att name="accession" type="string" value="A0A318XNJ9" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Ruminiclostridium sufflavum DSM 19573" />
+    <att name="length" type="integer" value="482" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="128.477" y="-561.802" w="35.341" h="35.341" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A369AVH6" label="A0A369AVH6">
+    <att name="accession" type="string" value="A0A369AVH6" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Anaerobacterium chartisolvens" />
+    <att name="length" type="integer" value="472" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="4" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="4" />
+    <graphics type="ELLIPSE" x="1753.920" y="-2124.648" w="35.341" h="35.341" fill="#d62728" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A369B1C5" label="A0A369B1C5">
+    <att name="accession" type="string" value="A0A369B1C5" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Anaerobacterium chartisolvens" />
+    <att name="length" type="integer" value="491" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="10" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="736.344" y="-1126.224" w="51.215" h="51.215" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A369B4K0" label="A0A369B4K0">
+    <att name="accession" type="string" value="A0A369B4K0" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Anaerobacterium chartisolvens" />
+    <att name="length" type="integer" value="476" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="12" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="799.272" y="-834.984" w="53.431" h="53.431" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A371AW33" label="A0A371AW33">
+    <att name="accession" type="string" value="A0A371AW33" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Anaerosacchariphilus polymeriproducens" />
+    <att name="length" type="integer" value="474" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="3" />
+    <att name="degree" type="integer" value="3" />
+    <att name="component_size" type="integer" value="4" />
+    <graphics type="ELLIPSE" x="760.680" y="-2105.352" w="40.716" h="40.716" fill="#2ca02c" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A371AW76" label="A0A371AW76">
+    <att name="accession" type="string" value="A0A371AW76" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Anaerosacchariphilus polymeriproducens" />
+    <att name="length" type="integer" value="495" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="3" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="4" />
+    <graphics type="ELLIPSE" x="819.144" y="-1769.976" w="35.341" h="35.341" fill="#2ca02c" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A371JCH1" label="A0A371JCH1">
+    <att name="accession" type="string" value="A0A371JCH1" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Lachnotalea glycerini" />
+    <att name="length" type="integer" value="470" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="20" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="961.776" y="-216.266" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A3E3K3Z4" label="A0A3E3K3Z4">
+    <att name="accession" type="string" value="A0A3E3K3Z4" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Sellimonas intestinalis" />
+    <att name="length" type="integer" value="481" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="5" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="3" />
+    <graphics type="ELLIPSE" x="1120.464" y="-221.522" w="35.341" h="35.341" fill="#9467bd" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A3S1DK06" label="A0A3S1DK06">
+    <att name="accession" type="string" value="A0A3S1DK06" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Paenibacillus anaericanus" />
+    <att name="length" type="integer" value="489" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="12" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="714.204" y="-957.312" w="53.431" h="53.431" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A410QEY9" label="A0A410QEY9">
+    <att name="accession" type="string" value="A0A410QEY9" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Acidilutibacter cellobiosedens" />
+    <att name="length" type="integer" value="492" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="21" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="248.767" y="-1859.256" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A4P5P9A6" label="A0A4P5P9A6">
+    <att name="accession" type="string" value="A0A4P5P9A6" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Enterococcus florum" />
+    <att name="length" type="integer" value="475" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="22" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="248.767" y="-1766.304" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A4U7J5T3" label="A0A4U7J5T3">
+    <att name="accession" type="string" value="A0A4U7J5T3" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Ruminiclostridium herbifermentans" />
+    <att name="length" type="integer" value="475" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="23" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="1581.768" y="-123.271" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A4U7JBU2" label="A0A4U7JBU2">
+    <att name="accession" type="string" value="A0A4U7JBU2" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Ruminiclostridium herbifermentans" />
+    <att name="length" type="integer" value="478" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="7" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="2" />
+    <graphics type="ELLIPSE" x="1120.464" y="-126.979" w="35.341" h="35.341" fill="#e377c2" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A4U7JEZ2" label="A0A4U7JEZ2">
+    <att name="accession" type="string" value="A0A4U7JEZ2" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Ruminiclostridium herbifermentans" />
+    <att name="length" type="integer" value="483" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="3" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="402.610" y="-1085.040" w="40.716" h="40.716" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A4U7JFA3" label="A0A4U7JFA3">
+    <att name="accession" type="string" value="A0A4U7JFA3" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Ruminiclostridium herbifermentans" />
+    <att name="length" type="integer" value="500" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="4" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="1168.632" y="-832.176" w="42.683" h="42.683" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A4U7JH14" label="A0A4U7JH14">
+    <att name="accession" type="string" value="A0A4U7JH14" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Ruminiclostridium herbifermentans" />
+    <att name="length" type="integer" value="482" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="9" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="555.840" y="-939.888" w="50.024" h="50.024" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A4U7JHB8" label="A0A4U7JHB8">
+    <att name="accession" type="string" value="A0A4U7JHB8" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Ruminiclostridium herbifermentans" />
+    <att name="length" type="integer" value="409" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="19" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="882.360" y="-1059.912" w="60.000" h="60.000" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A544QTM5" label="A0A544QTM5">
+    <att name="accession" type="string" value="A0A544QTM5" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Peptacetobacter hominis" />
+    <att name="length" type="integer" value="463" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="24" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="1674.792" y="-123.271" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A6N7Y3R2" label="A0A6N7Y3R2">
+    <att name="accession" type="string" value="A0A6N7Y3R2" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Tissierella pigra" />
+    <att name="length" type="integer" value="472" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="25" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="1767.744" y="-123.271" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A7I8DQZ3" label="A0A7I8DQZ3">
+    <att name="accession" type="string" value="A0A7I8DQZ3" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Anaerocolumna chitinilytica" />
+    <att name="length" type="integer" value="468" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="5" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="443.246" y="-1260.288" w="44.416" h="44.416" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A7V7UC57" label="A0A7V7UC57">
+    <att name="accession" type="string" value="A0A7V7UC57" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Candidatus Galacturonatibacter soehngenii" />
+    <att name="length" type="integer" value="475" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="4" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="4" />
+    <graphics type="ELLIPSE" x="1120.464" y="-1769.976" w="35.341" h="35.341" fill="#d62728" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A7X2H9E5" label="A0A7X2H9E5">
+    <att name="accession" type="string" value="A0A7X2H9E5" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Paenibacillus monticola" />
+    <att name="length" type="integer" value="475" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="2" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="6" />
+    <graphics type="ELLIPSE" x="2468.664" y="-2571.120" w="35.341" h="35.341" fill="#ff7f0e" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A8J8MAQ8" label="A0A8J8MAQ8">
+    <att name="accession" type="string" value="A0A8J8MAQ8" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Vallitalea guaymasensis" />
+    <att name="length" type="integer" value="480" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="26" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="1860.768" y="-123.271" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A917CQ19" label="A0A917CQ19">
+    <att name="accession" type="string" value="A0A917CQ19" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Paenibacillus albidus" />
+    <att name="length" type="integer" value="476" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="2" />
+    <att name="degree" type="integer" value="5" />
+    <att name="component_size" type="integer" value="6" />
+    <graphics type="ELLIPSE" x="2257.128" y="-2197.584" w="44.416" h="44.416" fill="#ff7f0e" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A926E8K1" label="A0A926E8K1">
+    <att name="accession" type="string" value="A0A926E8K1" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Zongyangia hominis" />
+    <att name="length" type="integer" value="473" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="3" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="4" />
+    <graphics type="ELLIPSE" x="438.480" y="-2221.560" w="35.341" h="35.341" fill="#2ca02c" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A974PDM3" label="A0A974PDM3">
+    <att name="accession" type="string" value="A0A974PDM3" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Paenibacillus sonchi" />
+    <att name="length" type="integer" value="475" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="2" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="6" />
+    <graphics type="ELLIPSE" x="2302.344" y="-1769.976" w="35.341" h="35.341" fill="#ff7f0e" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A9R0BHM2" label="A0A9R0BHM2">
+    <att name="accession" type="string" value="A0A9R0BHM2" />
+    <att name="protein_name" type="string" value="Radical SAM-family protein" />
+    <att name="organism" type="string" value="Clostridioides difficile (strain R20291) (Peptoclostridium difficile)" />
+    <att name="length" type="integer" value="473" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="27" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="1953.792" y="-123.271" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0A9W6C648" label="A0A9W6C648">
+    <att name="accession" type="string" value="A0A9W6C648" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Sellimonas catena" />
+    <att name="length" type="integer" value="482" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="5" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="3" />
+    <graphics type="ELLIPSE" x="1793.088" y="-221.522" w="35.341" h="35.341" fill="#9467bd" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0AAE3A6G0" label="A0AAE3A6G0">
+    <att name="accession" type="string" value="A0AAE3A6G0" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Waltera acetigignens" />
+    <att name="length" type="integer" value="476" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="6" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="2" />
+    <graphics type="ELLIPSE" x="2254.896" y="-219.974" w="35.341" h="35.341" fill="#8c564b" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0AAE3D875" label="A0AAE3D875">
+    <att name="accession" type="string" value="A0AAE3D875" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Waltera acetigignens" />
+    <att name="length" type="integer" value="468" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="4" />
+    <att name="degree" type="integer" value="3" />
+    <att name="component_size" type="integer" value="4" />
+    <graphics type="ELLIPSE" x="1332.504" y="-2131.920" w="40.716" h="40.716" fill="#d62728" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0AAJ3MH73" label="A0AAJ3MH73">
+    <att name="accession" type="string" value="A0AAJ3MH73" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Paenibacillus polymyxa (Bacillus polymyxa)" />
+    <att name="length" type="integer" value="482" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="28" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="217.771" y="-216.266" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0AB74VGP6" label="A0AB74VGP6">
+    <att name="accession" type="string" value="A0AB74VGP6" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Clostridium beijerinckii (Clostridium MP)" />
+    <att name="length" type="integer" value="480" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="2" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="955.656" y="-1585.152" w="38.382" h="38.382" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABM8I4V8" label="A0ABM8I4V8">
+    <att name="accession" type="string" value="A0ABM8I4V8" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Claveliimonas bilis" />
+    <att name="length" type="integer" value="443" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="29" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="217.771" y="-123.271" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABQ1EES2" label="A0ABQ1EES2">
+    <att name="accession" type="string" value="A0ABQ1EES2" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Clostridium zeae" />
+    <att name="length" type="integer" value="476" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="30" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="310.774" y="-123.271" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABQ5N9D1" label="A0ABQ5N9D1">
+    <att name="accession" type="string" value="A0ABQ5N9D1" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Clostridium omnivorum" />
+    <att name="length" type="integer" value="478" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="3" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="1002.456" y="-891.432" w="40.716" h="40.716" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABR5T0G5" label="A0ABR5T0G5">
+    <att name="accession" type="string" value="A0ABR5T0G5" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Paenibacillus jilunlii" />
+    <att name="length" type="integer" value="461" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="2" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="6" />
+    <graphics type="ELLIPSE" x="2678.256" y="-2108.808" w="35.341" h="35.341" fill="#ff7f0e" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABR8PWL1" label="A0ABR8PWL1">
+    <att name="accession" type="string" value="A0ABR8PWL1" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Clostridium cibarium" />
+    <att name="length" type="integer" value="488" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="1193.544" y="-1420.704" w="35.341" h="35.341" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABR8PX90" label="A0ABR8PX90">
+    <att name="accession" type="string" value="A0ABR8PX90" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Clostridium cibarium" />
+    <att name="length" type="integer" value="470" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="31" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="403.769" y="-123.271" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABR9RLL8" label="A0ABR9RLL8">
+    <att name="accession" type="string" value="A0ABR9RLL8" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Claveliimonas monacensis" />
+    <att name="length" type="integer" value="465" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="8" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="2" />
+    <graphics type="ELLIPSE" x="314.474" y="-219.974" w="35.341" h="35.341" fill="#7f7f7f" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABS1EMX1" label="A0ABS1EMX1">
+    <att name="accession" type="string" value="A0ABS1EMX1" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Clostridium yunnanense" />
+    <att name="length" type="integer" value="474" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="32" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="496.771" y="-123.271" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABS4FNR3" label="A0ABS4FNR3">
+    <att name="accession" type="string" value="A0ABS4FNR3" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Paenibacillus turicensis" />
+    <att name="length" type="integer" value="470" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="33" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="589.774" y="-123.271" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABS6EZ52" label="A0ABS6EZ52">
+    <att name="accession" type="string" value="A0ABS6EZ52" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Clostridium simiarum" />
+    <att name="length" type="integer" value="478" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="5" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="865.368" y="-1235.664" w="44.416" h="44.416" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABT4D852" label="A0ABT4D852">
+    <att name="accession" type="string" value="A0ABT4D852" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Clostridium brassicae" />
+    <att name="length" type="integer" value="464" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="34" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="682.769" y="-123.271" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABU0KWL2" label="A0ABU0KWL2">
+    <att name="accession" type="string" value="A0ABU0KWL2" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Paenibacillus brasilensis" />
+    <att name="length" type="integer" value="484" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="35" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="775.800" y="-123.271" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABU0L1R6" label="A0ABU0L1R6">
+    <att name="accession" type="string" value="A0ABU0L1R6" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Paenibacillus brasilensis" />
+    <att name="length" type="integer" value="492" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="36" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="868.752" y="-123.271" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABU1QMY2" label="A0ABU1QMY2">
+    <att name="accession" type="string" value="A0ABU1QMY2" />
+    <att name="protein_name" type="string" value="Radical SAM core domain-containing protein" />
+    <att name="organism" type="string" value="Paenibacillus peoriae" />
+    <att name="length" type="integer" value="484" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="37" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="961.776" y="-123.271" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABV1CNM1" label="A0ABV1CNM1">
+    <att name="accession" type="string" value="A0ABV1CNM1" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Blautia acetigignens" />
+    <att name="length" type="integer" value="472" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="38" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="2046.744" y="-92.268" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABV1DXC8" label="A0ABV1DXC8">
+    <att name="accession" type="string" value="A0ABV1DXC8" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Solibaculum intestinale" />
+    <att name="length" type="integer" value="492" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="39" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="155.772" y="-1859.256" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABV1GMV8" label="A0ABV1GMV8">
+    <att name="accession" type="string" value="A0ABV1GMV8" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Lachnospira hominis (ex Hitch et al. 2025)" />
+    <att name="length" type="integer" value="478" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="40" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="155.772" y="-1766.304" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABV4JNI7" label="A0ABV4JNI7">
+    <att name="accession" type="string" value="A0ABV4JNI7" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Halodesulfovibrio aestuarii" />
+    <att name="length" type="integer" value="479" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="41" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="1116.792" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABX3GIL4" label="A0ABX3GIL4">
+    <att name="accession" type="string" value="A0ABX3GIL4" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Paenibacillus odorifer" />
+    <att name="length" type="integer" value="467" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="3" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="1492.632" y="-998.208" w="40.716" h="40.716" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABX4K6Z5" label="A0ABX4K6Z5">
+    <att name="accession" type="string" value="A0ABX4K6Z5" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Clostridium sporogenes" />
+    <att name="length" type="integer" value="476" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="42" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="1209.744" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ABY7AE09" label="A0ABY7AE09">
+    <att name="accession" type="string" value="A0ABY7AE09" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Lacrimispora xylanolytica" />
+    <att name="length" type="integer" value="472" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="43" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="1302.768" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0AC59G2V5" label="A0AC59G2V5">
+    <att name="accession" type="string" value="A0AC59G2V5" />
+    <att name="protein_name" type="string" value="Radical SAM family protein" />
+    <att name="organism" type="string" value="Clostridioides difficile ATCC 9689 = DSM 1296" />
+    <att name="length" type="integer" value="475" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="44" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="1395.792" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0AC61RQA0" label="A0AC61RQA0">
+    <att name="accession" type="string" value="A0AC61RQA0" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Petralouisia muris" />
+    <att name="length" type="integer" value="464" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="8" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="2" />
+    <graphics type="ELLIPSE" x="673.877" y="-219.974" w="35.341" h="35.341" fill="#7f7f7f" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0AC61RUN0" label="A0AC61RUN0">
+    <att name="accession" type="string" value="A0AC61RUN0" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Petralouisia muris" />
+    <att name="length" type="integer" value="481" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="45" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="1488.744" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0AC61RUX4" label="A0AC61RUX4">
+    <att name="accession" type="string" value="A0AC61RUX4" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Petralouisia muris" />
+    <att name="length" type="integer" value="493" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="4" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="4" />
+    <graphics type="ELLIPSE" x="1126.080" y="-2488.968" w="35.341" h="35.341" fill="#d62728" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A0ACB5UQ49" label="A0ACB5UQ49">
+    <att name="accession" type="string" value="A0ACB5UQ49" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Vallitalea maricola" />
+    <att name="length" type="integer" value="474" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="3" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="1833.624" y="-1107.144" w="40.716" h="40.716" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="A9KNC1" label="A9KNC1">
+    <att name="accession" type="string" value="A9KNC1" />
+    <att name="protein_name" type="string" value="Radical SAM domain protein" />
+    <att name="organism" type="string" value="Lachnoclostridium phytofermentans (strain ATCC 700394 / DSM 18823 / ISDg) (Clostridium phytofermentans)" />
+    <att name="length" type="integer" value="464" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="46" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="1581.768" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="B8I5G7" label="B8I5G7">
+    <att name="accession" type="string" value="B8I5G7" />
+    <att name="protein_name" type="string" value="Radical SAM domain protein" />
+    <att name="organism" type="string" value="Ruminiclostridium cellulolyticum (strain ATCC 35319 / DSM 5812 / JCM 6584 / H10) (Clostridium cellulolyticum)" />
+    <att name="length" type="integer" value="462" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="3" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="588.838" y="-1388.232" w="40.716" h="40.716" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="B8I5P8" label="B8I5P8">
+    <att name="accession" type="string" value="B8I5P8" />
+    <att name="protein_name" type="string" value="Radical SAM domain protein" />
+    <att name="organism" type="string" value="Ruminiclostridium cellulolyticum (strain ATCC 35319 / DSM 5812 / JCM 6584 / H10) (Clostridium cellulolyticum)" />
+    <att name="length" type="integer" value="468" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="47" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="1674.792" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="B8I6T6" label="B8I6T6">
+    <att name="accession" type="string" value="B8I6T6" />
+    <att name="protein_name" type="string" value="Radical SAM domain protein" />
+    <att name="organism" type="string" value="Ruminiclostridium cellulolyticum (strain ATCC 35319 / DSM 5812 / JCM 6584 / H10) (Clostridium cellulolyticum)" />
+    <att name="length" type="integer" value="486" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="3" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="282.125" y="-933.984" w="40.716" h="40.716" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="C7GHL2" label="C7GHL2">
+    <att name="accession" type="string" value="C7GHL2" />
+    <att name="protein_name" type="string" value="Anaerobic sulfatase-maturating enzyme (EC 1.8.98.-)" />
+    <att name="organism" type="string" value="Roseburia intestinalis L1-82" />
+    <att name="length" type="integer" value="469" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="1.8.98.-" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="3" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="1839.888" y="-882.864" w="40.716" h="40.716" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="F1T814" label="F1T814">
+    <att name="accession" type="string" value="F1T814" />
+    <att name="protein_name" type="string" value="Radical SAM domain protein" />
+    <att name="organism" type="string" value="Ruminiclostridium papyrosolvens DSM 2782" />
+    <att name="length" type="integer" value="478" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="48" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="1767.744" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="F1TCD0" label="F1TCD0">
+    <att name="accession" type="string" value="F1TCD0" />
+    <att name="protein_name" type="string" value="Radical SAM domain protein" />
+    <att name="organism" type="string" value="Ruminiclostridium papyrosolvens DSM 2782" />
+    <att name="length" type="integer" value="482" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="3" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="475.337" y="-581.386" w="40.716" h="40.716" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="F1TDX1" label="F1TDX1">
+    <att name="accession" type="string" value="F1TDX1" />
+    <att name="protein_name" type="string" value="Radical SAM domain protein" />
+    <att name="organism" type="string" value="Ruminiclostridium papyrosolvens DSM 2782" />
+    <att name="length" type="integer" value="468" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="49" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="1860.768" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="M1LZU2" label="M1LZU2">
+    <att name="accession" type="string" value="M1LZU2" />
+    <att name="protein_name" type="string" value="Radical SAM domain protein" />
+    <att name="organism" type="string" value="Clostridium saccharoperbutylacetonicum N1-4(HMT)" />
+    <att name="length" type="integer" value="478" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="50" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="1953.792" y="-30.270" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="M1MVT0" label="M1MVT0">
+    <att name="accession" type="string" value="M1MVT0" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Clostridium saccharoperbutylacetonicum N1-4(HMT)" />
+    <att name="length" type="integer" value="473" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="6" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="867.600" y="-616.745" w="45.982" h="45.982" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="Q18CP8" label="Q18CP8">
+    <att name="accession" type="string" value="Q18CP8" />
+    <att name="protein_name" type="string" value="Radical SAM-family protein" />
+    <att name="organism" type="string" value="Clostridioides difficile (strain 630) (Peptoclostridium difficile)" />
+    <att name="length" type="integer" value="473" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="51" />
+    <att name="degree" type="integer" value="0" />
+    <att name="component_size" type="integer" value="1" />
+    <graphics type="ELLIPSE" x="124.769" y="-216.266" w="28.000" h="28.000" fill="#b8bec6" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="R4KAL5" label="R4KAL5">
+    <att name="accession" type="string" value="R4KAL5" />
+    <att name="protein_name" type="string" value="Arylsulfatase regulator (Fe-S oxidoreductase)" />
+    <att name="organism" type="string" value="Clostridium pasteurianum BC1" />
+    <att name="length" type="integer" value="483" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="2" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="665.957" y="-1664.208" w="38.382" h="38.382" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="S0FMT6" label="S0FMT6">
+    <att name="accession" type="string" value="S0FMT6" />
+    <att name="protein_name" type="string" value="Arylsulfatase regulator (Fe-S oxidoreductase)" />
+    <att name="organism" type="string" value="Ruminiclostridium cellobioparum subsp. termitidis CT1112" />
+    <att name="length" type="integer" value="476" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="15" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="599.400" y="-1184.472" w="56.433" h="56.433" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="S0FN89" label="S0FN89">
+    <att name="accession" type="string" value="S0FN89" />
+    <att name="protein_name" type="string" value="Arylsulfatase regulator (Fe-S oxidoreductase)" />
+    <att name="organism" type="string" value="Ruminiclostridium cellobioparum subsp. termitidis CT1112" />
+    <att name="length" type="integer" value="486" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="2" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="805.320" y="-1435.464" w="38.382" h="38.382" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="S0FNR8" label="S0FNR8">
+    <att name="accession" type="string" value="S0FNR8" />
+    <att name="protein_name" type="string" value="Arylsulfatase regulator (Fe-S oxidoreductase)" />
+    <att name="organism" type="string" value="Ruminiclostridium cellobioparum subsp. termitidis CT1112" />
+    <att name="length" type="integer" value="483" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="1" />
+    <att name="degree" type="integer" value="7" />
+    <att name="component_size" type="integer" value="31" />
+    <graphics type="ELLIPSE" x="471.751" y="-799.128" w="47.423" h="47.423" fill="#1f77b4" outline="#ffffff" width="1.0" />
+  </node>
+  <node id="U5MYE6" label="U5MYE6">
+    <att name="accession" type="string" value="U5MYE6" />
+    <att name="protein_name" type="string" value="Cys-rich peptide radical SAM maturase CcpM" />
+    <att name="organism" type="string" value="Clostridium saccharobutylicum DSM 13864" />
+    <att name="length" type="integer" value="481" />
+    <att name="reviewed" type="string" value="unreviewed" />
+    <att name="ec_number" type="string" value="" />
+    <att name="cluster" type="integer" value="7" />
+    <att name="degree" type="integer" value="1" />
+    <att name="component_size" type="integer" value="2" />
+    <graphics type="ELLIPSE" x="1479.888" y="-126.979" w="35.341" h="35.341" fill="#e377c2" outline="#ffffff" width="1.0" />
+  </node>
+  <edge id="e1" label="A0A089MGG8 -- A0A917CQ19" source="A0A089MGG8" target="A0A917CQ19">
+    <att name="pident" type="real" value="52.452" />
+    <att name="coverage" type="real" value="0.86055" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1405.0" />
+    <att name="bitscore" type="real" value="545.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e2" label="A0A371AW33 -- A0A371AW76" source="A0A371AW33" target="A0A371AW76">
+    <att name="pident" type="real" value="55.076" />
+    <att name="coverage" type="real" value="0.857407" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1391.0" />
+    <att name="bitscore" type="real" value="540.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e3" label="A0A4U7JH14 -- F1TCD0" source="A0A4U7JH14" target="F1TCD0">
+    <att name="pident" type="real" value="63.655" />
+    <att name="coverage" type="real" value="0.721212" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1703.0" />
+    <att name="bitscore" type="real" value="660.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e4" label="A0A369B1C5 -- A0A4U7JH14" source="A0A369B1C5" target="A0A4U7JH14">
+    <att name="pident" type="real" value="51.05" />
+    <att name="coverage" type="real" value="0.931507" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1315.0" />
+    <att name="bitscore" type="real" value="511.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e5" label="A0A4U7JH14 -- S0FMT6" source="A0A4U7JH14" target="S0FMT6">
+    <att name="pident" type="real" value="53.68" />
+    <att name="coverage" type="real" value="0.916667" />
+    <att name="evalue" type="real" value="3.4e-179" />
+    <att name="score" type="real" value="1298.0" />
+    <att name="bitscore" type="real" value="504.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e6" label="A0A4U7JEZ2 -- A0A4U7JH14" source="A0A4U7JEZ2" target="A0A4U7JH14">
+    <att name="pident" type="real" value="51.042" />
+    <att name="coverage" type="real" value="0.963855" />
+    <att name="evalue" type="real" value="6.6e-177" />
+    <att name="score" type="real" value="1283.0" />
+    <att name="bitscore" type="real" value="498.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e7" label="A0A4U7JH14 -- A0A7I8DQZ3" source="A0A4U7JH14" target="A0A7I8DQZ3">
+    <att name="pident" type="real" value="50.533" />
+    <att name="coverage" type="real" value="0.949393" />
+    <att name="evalue" type="real" value="2.65e-175" />
+    <att name="score" type="real" value="1271.0" />
+    <att name="bitscore" type="real" value="494.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e8" label="A0A3S1DK06 -- A0A4U7JH14" source="A0A3S1DK06" target="A0A4U7JH14">
+    <att name="pident" type="real" value="50.108" />
+    <att name="coverage" type="real" value="0.95679" />
+    <att name="evalue" type="real" value="5.05e-172" />
+    <att name="score" type="real" value="1252.0" />
+    <att name="bitscore" type="real" value="486.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e9" label="A0A369B4K0 -- A0A4U7JH14" source="A0A369B4K0" target="A0A4U7JH14">
+    <att name="pident" type="real" value="50.636" />
+    <att name="coverage" type="real" value="0.973196" />
+    <att name="evalue" type="real" value="1.12e-171" />
+    <att name="score" type="real" value="1248.0" />
+    <att name="bitscore" type="real" value="485.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e10" label="A0A1V4SIV9 -- A0A4U7JH14" source="A0A1V4SIV9" target="A0A4U7JH14">
+    <att name="pident" type="real" value="50.427" />
+    <att name="coverage" type="real" value="0.970954" />
+    <att name="evalue" type="real" value="9.78e-168" />
+    <att name="score" type="real" value="1224.0" />
+    <att name="bitscore" type="real" value="476.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e11" label="A0A4U7JH14 -- A0A4U7JHB8" source="A0A4U7JH14" target="A0A4U7JHB8">
+    <att name="pident" type="real" value="52.538" />
+    <att name="coverage" type="real" value="0.817427" />
+    <att name="evalue" type="real" value="3.47e-147" />
+    <att name="score" type="real" value="1080.0" />
+    <att name="bitscore" type="real" value="420.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e12" label="A0A7X2H9E5 -- A0A917CQ19" source="A0A7X2H9E5" target="A0A917CQ19">
+    <att name="pident" type="real" value="52.137" />
+    <att name="coverage" type="real" value="0.878049" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1373.0" />
+    <att name="bitscore" type="real" value="533.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e13" label="A0A316AEB4 -- A0A9W6C648" source="A0A316AEB4" target="A0A9W6C648">
+    <att name="pident" type="real" value="54.409" />
+    <att name="coverage" type="real" value="0.853211" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1405.0" />
+    <att name="bitscore" type="real" value="545.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e14" label="A0ABR9RLL8 -- A0AC61RQA0" source="A0ABR9RLL8" target="A0AC61RQA0">
+    <att name="pident" type="real" value="65.086" />
+    <att name="coverage" type="real" value="0.713846" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1676.0" />
+    <att name="bitscore" type="real" value="650.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e15" label="F1TCD0 -- S0FNR8" source="F1TCD0" target="S0FNR8">
+    <att name="pident" type="real" value="61.146" />
+    <att name="coverage" type="real" value="0.751196" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1616.0" />
+    <att name="bitscore" type="real" value="627.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e16" label="A0A369B4K0 -- F1TCD0" source="A0A369B4K0" target="F1TCD0">
+    <att name="pident" type="real" value="50.535" />
+    <att name="coverage" type="real" value="0.96888" />
+    <att name="evalue" type="real" value="9.9e-167" />
+    <att name="score" type="real" value="1215.0" />
+    <att name="bitscore" type="real" value="472.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e17" label="A0A7I8DQZ3 -- S0FMT6" source="A0A7I8DQZ3" target="S0FMT6">
+    <att name="pident" type="real" value="52.766" />
+    <att name="coverage" type="real" value="0.900383" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1344.0" />
+    <att name="bitscore" type="real" value="522.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e18" label="A0A369B1C5 -- S0FMT6" source="A0A369B1C5" target="S0FMT6">
+    <att name="pident" type="real" value="51.782" />
+    <att name="coverage" type="real" value="0.919075" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1337.0" />
+    <att name="bitscore" type="real" value="519.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e19" label="S0FMT6 -- S0FNR8" source="S0FMT6" target="S0FNR8">
+    <att name="pident" type="real" value="53.017" />
+    <att name="coverage" type="real" value="0.915187" />
+    <att name="evalue" type="real" value="3.09e-180" />
+    <att name="score" type="real" value="1305.0" />
+    <att name="bitscore" type="real" value="507.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e20" label="A0A1M6R452 -- S0FMT6" source="A0A1M6R452" target="S0FMT6">
+    <att name="pident" type="real" value="53.219" />
+    <att name="coverage" type="real" value="0.903101" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1330.0" />
+    <att name="bitscore" type="real" value="516.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e21" label="A0A3S1DK06 -- S0FMT6" source="A0A3S1DK06" target="S0FMT6">
+    <att name="pident" type="real" value="51.702" />
+    <att name="coverage" type="real" value="0.938124" />
+    <att name="evalue" type="real" value="6.53e-178" />
+    <att name="score" type="real" value="1290.0" />
+    <att name="bitscore" type="real" value="501.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e22" label="S0FMT6 -- S0FN89" source="S0FMT6" target="S0FN89">
+    <att name="pident" type="real" value="53.32" />
+    <att name="coverage" type="real" value="0.964" />
+    <att name="evalue" type="real" value="1.12e-177" />
+    <att name="score" type="real" value="1288.0" />
+    <att name="bitscore" type="real" value="500.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e23" label="A0A1M6IUT3 -- S0FMT6" source="A0A1M6IUT3" target="S0FMT6">
+    <att name="pident" type="real" value="51.983" />
+    <att name="coverage" type="real" value="0.95992" />
+    <att name="evalue" type="real" value="2.75e-177" />
+    <att name="score" type="real" value="1286.0" />
+    <att name="bitscore" type="real" value="499.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e24" label="A0A4U7JEZ2 -- S0FMT6" source="A0A4U7JEZ2" target="S0FMT6">
+    <att name="pident" type="real" value="50.947" />
+    <att name="coverage" type="real" value="0.985477" />
+    <att name="evalue" type="real" value="1.66e-170" />
+    <att name="score" type="real" value="1240.0" />
+    <att name="bitscore" type="real" value="482.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e25" label="B8I6T6 -- S0FMT6" source="B8I6T6" target="S0FMT6">
+    <att name="pident" type="real" value="50.318" />
+    <att name="coverage" type="real" value="0.983299" />
+    <att name="evalue" type="real" value="1.73e-169" />
+    <att name="score" type="real" value="1234.0" />
+    <att name="bitscore" type="real" value="479.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e26" label="A0ABS6EZ52 -- S0FMT6" source="A0ABS6EZ52" target="S0FMT6">
+    <att name="pident" type="real" value="51.288" />
+    <att name="coverage" type="real" value="0.974895" />
+    <att name="evalue" type="real" value="8.05e-169" />
+    <att name="score" type="real" value="1229.0" />
+    <att name="bitscore" type="real" value="478.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e27" label="B8I5G7 -- S0FMT6" source="B8I5G7" target="S0FMT6">
+    <att name="pident" type="real" value="50.533" />
+    <att name="coverage" type="real" value="0.985294" />
+    <att name="evalue" type="real" value="1.06e-167" />
+    <att name="score" type="real" value="1220.0" />
+    <att name="bitscore" type="real" value="474.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e28" label="R4KAL5 -- S0FMT6" source="R4KAL5" target="S0FMT6">
+    <att name="pident" type="real" value="50.107" />
+    <att name="coverage" type="real" value="0.985294" />
+    <att name="evalue" type="real" value="9.43e-166" />
+    <att name="score" type="real" value="1209.0" />
+    <att name="bitscore" type="real" value="470.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e29" label="A0A369B4K0 -- S0FMT6" source="A0A369B4K0" target="S0FMT6">
+    <att name="pident" type="real" value="50.0" />
+    <att name="coverage" type="real" value="0.987395" />
+    <att name="evalue" type="real" value="4.79e-165" />
+    <att name="score" type="real" value="1204.0" />
+    <att name="bitscore" type="real" value="468.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e30" label="A0A4U7JHB8 -- S0FMT6" source="A0A4U7JHB8" target="S0FMT6">
+    <att name="pident" type="real" value="55.27" />
+    <att name="coverage" type="real" value="0.817227" />
+    <att name="evalue" type="real" value="2.01e-152" />
+    <att name="score" type="real" value="1114.0" />
+    <att name="bitscore" type="real" value="433.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e31" label="A0A4U7JHB8 -- S0FN89" source="A0A4U7JHB8" target="S0FN89">
+    <att name="pident" type="real" value="50.639" />
+    <att name="coverage" type="real" value="0.804527" />
+    <att name="evalue" type="real" value="5.86e-140" />
+    <att name="score" type="real" value="1032.0" />
+    <att name="bitscore" type="real" value="402.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e32" label="B8I6T6 -- S0FNR8" source="B8I6T6" target="S0FNR8">
+    <att name="pident" type="real" value="64.331" />
+    <att name="coverage" type="real" value="0.724615" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1678.0" />
+    <att name="bitscore" type="real" value="650.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e33" label="A0A318XNJ9 -- S0FNR8" source="A0A318XNJ9" target="S0FNR8">
+    <att name="pident" type="real" value="64.255" />
+    <att name="coverage" type="real" value="0.724191" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1674.0" />
+    <att name="bitscore" type="real" value="649.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e34" label="A0A3S1DK06 -- S0FNR8" source="A0A3S1DK06" target="S0FNR8">
+    <att name="pident" type="real" value="50.321" />
+    <att name="coverage" type="real" value="0.966874" />
+    <att name="evalue" type="real" value="1.07e-170" />
+    <att name="score" type="real" value="1243.0" />
+    <att name="bitscore" type="real" value="483.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e35" label="A0A369B4K0 -- S0FNR8" source="A0A369B4K0" target="S0FNR8">
+    <att name="pident" type="real" value="50.753" />
+    <att name="coverage" type="real" value="0.962733" />
+    <att name="evalue" type="real" value="7.7e-166" />
+    <att name="score" type="real" value="1210.0" />
+    <att name="bitscore" type="real" value="470.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e36" label="A0A4U7JHB8 -- S0FNR8" source="A0A4U7JHB8" target="S0FNR8">
+    <att name="pident" type="real" value="54.381" />
+    <att name="coverage" type="real" value="0.803313" />
+    <att name="evalue" type="real" value="1.02e-151" />
+    <att name="score" type="real" value="1110.0" />
+    <att name="bitscore" type="real" value="432.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e37" label="A0A4U7JBU2 -- U5MYE6" source="A0A4U7JBU2" target="U5MYE6">
+    <att name="pident" type="real" value="61.169" />
+    <att name="coverage" type="real" value="0.741486" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1666.0" />
+    <att name="bitscore" type="real" value="646.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e38" label="A0A1M6R452 -- A0A7I8DQZ3" source="A0A1M6R452" target="A0A7I8DQZ3">
+    <att name="pident" type="real" value="58.422" />
+    <att name="coverage" type="real" value="0.800341" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1510.0" />
+    <att name="bitscore" type="real" value="586.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e39" label="A0A222WTU8 -- A0ACB5UQ49" source="A0A222WTU8" target="A0ACB5UQ49">
+    <att name="pident" type="real" value="51.293" />
+    <att name="coverage" type="real" value="0.877127" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1362.0" />
+    <att name="bitscore" type="real" value="529.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e40" label="A0A222WTU8 -- C7GHL2" source="A0A222WTU8" target="C7GHL2">
+    <att name="pident" type="real" value="50.323" />
+    <att name="coverage" type="real" value="0.913556" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1312.0" />
+    <att name="bitscore" type="real" value="509.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e41" label="A0A369AVH6 -- A0AAE3D875" source="A0A369AVH6" target="A0AAE3D875">
+    <att name="pident" type="real" value="55.65" />
+    <att name="coverage" type="real" value="0.830088" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1456.0" />
+    <att name="bitscore" type="real" value="565.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e42" label="A0A369B1C5 -- A0ABS6EZ52" source="A0A369B1C5" target="A0ABS6EZ52">
+    <att name="pident" type="real" value="53.333" />
+    <att name="coverage" type="real" value="0.923077" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1339.0" />
+    <att name="bitscore" type="real" value="520.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e43" label="A0A369B1C5 -- A0A369B4K0" source="A0A369B1C5" target="A0A369B4K0">
+    <att name="pident" type="real" value="52.708" />
+    <att name="coverage" type="real" value="0.923077" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1338.0" />
+    <att name="bitscore" type="real" value="520.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e44" label="A0A369B1C5 -- A0A3S1DK06" source="A0A369B1C5" target="A0A3S1DK06">
+    <att name="pident" type="real" value="50.524" />
+    <att name="coverage" type="real" value="0.926214" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1327.0" />
+    <att name="bitscore" type="real" value="515.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e45" label="A0A369B1C5 -- A0A7I8DQZ3" source="A0A369B1C5" target="A0A7I8DQZ3">
+    <att name="pident" type="real" value="51.688" />
+    <att name="coverage" type="real" value="0.9499" />
+    <att name="evalue" type="real" value="2.87e-177" />
+    <att name="score" type="real" value="1285.0" />
+    <att name="bitscore" type="real" value="499.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e46" label="A0A369B1C5 -- A0ABQ5N9D1" source="A0A369B1C5" target="A0ABQ5N9D1">
+    <att name="pident" type="real" value="50.625" />
+    <att name="coverage" type="real" value="0.963855" />
+    <att name="evalue" type="real" value="1.93e-176" />
+    <att name="score" type="real" value="1281.0" />
+    <att name="bitscore" type="real" value="498.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e47" label="A0A1M6IUT3 -- A0A369B1C5" source="A0A1M6IUT3" target="A0A369B1C5">
+    <att name="pident" type="real" value="50.833" />
+    <att name="coverage" type="real" value="0.96" />
+    <att name="evalue" type="real" value="1.8e-177" />
+    <att name="score" type="real" value="1288.0" />
+    <att name="bitscore" type="real" value="500.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e48" label="A0A369B1C5 -- B8I5G7" source="A0A369B1C5" target="B8I5G7">
+    <att name="pident" type="real" value="50.42" />
+    <att name="coverage" type="real" value="0.96945" />
+    <att name="evalue" type="real" value="9.52e-172" />
+    <att name="score" type="real" value="1248.0" />
+    <att name="bitscore" type="real" value="485.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e49" label="A0A369B1C5 -- A0A4U7JHB8" source="A0A369B1C5" target="A0A4U7JHB8">
+    <att name="pident" type="real" value="52.01" />
+    <att name="coverage" type="real" value="0.810591" />
+    <att name="evalue" type="real" value="8.42e-152" />
+    <att name="score" type="real" value="1111.0" />
+    <att name="bitscore" type="real" value="432.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e50" label="A0A316AEB4 -- A0A3E3K3Z4" source="A0A316AEB4" target="A0A3E3K3Z4">
+    <att name="pident" type="real" value="54.194" />
+    <att name="coverage" type="real" value="0.856354" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1398.0" />
+    <att name="bitscore" type="real" value="543.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e51" label="A0A369B4K0 -- A0A4U7JFA3" source="A0A369B4K0" target="A0A4U7JFA3">
+    <att name="pident" type="real" value="50.316" />
+    <att name="coverage" type="real" value="0.95" />
+    <att name="evalue" type="real" value="9.51e-176" />
+    <att name="score" type="real" value="1277.0" />
+    <att name="bitscore" type="real" value="496.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e52" label="A0A1M6DMP5 -- A0A4U7JFA3" source="A0A1M6DMP5" target="A0A4U7JFA3">
+    <att name="pident" type="real" value="50.743" />
+    <att name="coverage" type="real" value="0.942" />
+    <att name="evalue" type="real" value="1.14e-168" />
+    <att name="score" type="real" value="1231.0" />
+    <att name="bitscore" type="real" value="478.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e53" label="A0A1M6IUT3 -- A0A4U7JFA3" source="A0A1M6IUT3" target="A0A4U7JFA3">
+    <att name="pident" type="real" value="51.368" />
+    <att name="coverage" type="real" value="0.975359" />
+    <att name="evalue" type="real" value="2.3e-169" />
+    <att name="score" type="real" value="1236.0" />
+    <att name="bitscore" type="real" value="480.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e54" label="A0A4U7JFA3 -- A0A4U7JHB8" source="A0A4U7JFA3" target="A0A4U7JHB8">
+    <att name="pident" type="real" value="54.453" />
+    <att name="coverage" type="real" value="0.786" />
+    <att name="evalue" type="real" value="7.27e-164" />
+    <att name="score" type="real" value="1192.0" />
+    <att name="bitscore" type="real" value="463.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e55" label="A0AAE3D875 -- A0AC61RUX4" source="A0AAE3D875" target="A0AC61RUX4">
+    <att name="pident" type="real" value="56.077" />
+    <att name="coverage" type="real" value="0.830088" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1455.0" />
+    <att name="bitscore" type="real" value="565.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e56" label="A0A3S1DK06 -- B8I6T6" source="A0A3S1DK06" target="B8I6T6">
+    <att name="pident" type="real" value="50.107" />
+    <att name="coverage" type="real" value="0.965021" />
+    <att name="evalue" type="real" value="1.9e-169" />
+    <att name="score" type="real" value="1235.0" />
+    <att name="bitscore" type="real" value="480.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e57" label="A0ABX3GIL4 -- C7GHL2" source="A0ABX3GIL4" target="C7GHL2">
+    <att name="pident" type="real" value="53.846" />
+    <att name="coverage" type="real" value="0.828319" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1457.0" />
+    <att name="bitscore" type="real" value="565.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e58" label="A0ACB5UQ49 -- C7GHL2" source="A0ACB5UQ49" target="C7GHL2">
+    <att name="pident" type="real" value="53.518" />
+    <att name="coverage" type="real" value="0.840502" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1439.0" />
+    <att name="bitscore" type="real" value="558.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e59" label="A0A3S1DK06 -- M1MVT0" source="A0A3S1DK06" target="M1MVT0">
+    <att name="pident" type="real" value="51.592" />
+    <att name="coverage" type="real" value="0.94012" />
+    <att name="evalue" type="real" value="8.48e-178" />
+    <att name="score" type="real" value="1289.0" />
+    <att name="bitscore" type="real" value="501.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e60" label="A0A1M6DMP5 -- M1MVT0" source="A0A1M6DMP5" target="M1MVT0">
+    <att name="pident" type="real" value="50.955" />
+    <att name="coverage" type="real" value="0.971134" />
+    <att name="evalue" type="real" value="8.64e-172" />
+    <att name="score" type="real" value="1249.0" />
+    <att name="bitscore" type="real" value="485.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e61" label="A0A1V4SIV9 -- M1MVT0" source="A0A1V4SIV9" target="M1MVT0">
+    <att name="pident" type="real" value="50.526" />
+    <att name="coverage" type="real" value="0.989583" />
+    <att name="evalue" type="real" value="1.94e-169" />
+    <att name="score" type="real" value="1235.0" />
+    <att name="bitscore" type="real" value="480.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e62" label="A0A369B4K0 -- M1MVT0" source="A0A369B4K0" target="M1MVT0">
+    <att name="pident" type="real" value="50.0" />
+    <att name="coverage" type="real" value="0.978992" />
+    <att name="evalue" type="real" value="2.39e-168" />
+    <att name="score" type="real" value="1225.0" />
+    <att name="bitscore" type="real" value="476.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e63" label="A0A2G7HJP2 -- M1MVT0" source="A0A2G7HJP2" target="M1MVT0">
+    <att name="pident" type="real" value="50.106" />
+    <att name="coverage" type="real" value="0.995772" />
+    <att name="evalue" type="real" value="3.27e-164" />
+    <att name="score" type="real" value="1198.0" />
+    <att name="bitscore" type="real" value="466.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e64" label="A0A4U7JHB8 -- M1MVT0" source="A0A4U7JHB8" target="M1MVT0">
+    <att name="pident" type="real" value="53.213" />
+    <att name="coverage" type="real" value="0.82241" />
+    <att name="evalue" type="real" value="2.62e-154" />
+    <att name="score" type="real" value="1126.0" />
+    <att name="bitscore" type="real" value="438.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e65" label="A0A132U102 -- A0A917CQ19" source="A0A132U102" target="A0A917CQ19">
+    <att name="pident" type="real" value="51.599" />
+    <att name="coverage" type="real" value="0.86372" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1399.0" />
+    <att name="bitscore" type="real" value="543.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e66" label="A0A1M5Q7S6 -- A0AAE3A6G0" source="A0A1M5Q7S6" target="A0AAE3A6G0">
+    <att name="pident" type="real" value="51.046" />
+    <att name="coverage" type="real" value="0.959839" />
+    <att name="evalue" type="real" value="3.85e-177" />
+    <att name="score" type="real" value="1283.0" />
+    <att name="bitscore" type="real" value="498.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e67" label="A0A1M6DMP5 -- A0A2G7HJP2" source="A0A1M6DMP5" target="A0A2G7HJP2">
+    <att name="pident" type="real" value="51.055" />
+    <att name="coverage" type="real" value="0.948" />
+    <att name="evalue" type="real" value="9.08e-178" />
+    <att name="score" type="real" value="1288.0" />
+    <att name="bitscore" type="real" value="500.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e68" label="A0A1M6DMP5 -- A0A369B4K0" source="A0A1M6DMP5" target="A0A369B4K0">
+    <att name="pident" type="real" value="50.746" />
+    <att name="coverage" type="real" value="0.96701" />
+    <att name="evalue" type="real" value="1.23e-171" />
+    <att name="score" type="real" value="1248.0" />
+    <att name="bitscore" type="real" value="485.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e69" label="A0A1M6DMP5 -- A0A3S1DK06" source="A0A1M6DMP5" target="A0A3S1DK06">
+    <att name="pident" type="real" value="50.107" />
+    <att name="coverage" type="real" value="0.971014" />
+    <att name="evalue" type="real" value="9.37e-171" />
+    <att name="score" type="real" value="1243.0" />
+    <att name="bitscore" type="real" value="483.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e70" label="A0A318XIS8 -- A0A4U7JHB8" source="A0A318XIS8" target="A0A4U7JHB8">
+    <att name="pident" type="real" value="52.455" />
+    <att name="coverage" type="real" value="0.834052" />
+    <att name="evalue" type="real" value="3.44e-145" />
+    <att name="score" type="real" value="1065.0" />
+    <att name="bitscore" type="real" value="414.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e71" label="A0A917CQ19 -- A0ABR5T0G5" source="A0A917CQ19" target="A0ABR5T0G5">
+    <att name="pident" type="real" value="52.391" />
+    <att name="coverage" type="real" value="0.859813" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1379.0" />
+    <att name="bitscore" type="real" value="535.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e72" label="A0A3S1DK06 -- A0ABS6EZ52" source="A0A3S1DK06" target="A0ABS6EZ52">
+    <att name="pident" type="real" value="50.633" />
+    <att name="coverage" type="real" value="0.951807" />
+    <att name="evalue" type="real" value="1.79e-176" />
+    <att name="score" type="real" value="1281.0" />
+    <att name="bitscore" type="real" value="498.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e73" label="A0A369B4K0 -- A0ABS6EZ52" source="A0A369B4K0" target="A0ABS6EZ52">
+    <att name="pident" type="real" value="50.424" />
+    <att name="coverage" type="real" value="0.975207" />
+    <att name="evalue" type="real" value="2.51e-171" />
+    <att name="score" type="real" value="1245.0" />
+    <att name="bitscore" type="real" value="484.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e74" label="A0A4U7JHB8 -- A0ABS6EZ52" source="A0A4U7JHB8" target="A0ABS6EZ52">
+    <att name="pident" type="real" value="52.32" />
+    <att name="coverage" type="real" value="0.811715" />
+    <att name="evalue" type="real" value="2.69e-152" />
+    <att name="score" type="real" value="1113.0" />
+    <att name="bitscore" type="real" value="433.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e75" label="A0A1M5WBP3 -- A0A371AW33" source="A0A1M5WBP3" target="A0A371AW33">
+    <att name="pident" type="real" value="51.528" />
+    <att name="coverage" type="real" value="0.927126" />
+    <att name="evalue" type="real" value="9.88e-176" />
+    <att name="score" type="real" value="1273.0" />
+    <att name="bitscore" type="real" value="494.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e76" label="A0A1M6IUT3 -- A0A3S1DK06" source="A0A1M6IUT3" target="A0A3S1DK06">
+    <att name="pident" type="real" value="51.34" />
+    <att name="coverage" type="real" value="0.983773" />
+    <att name="evalue" type="real" value="9.05e-175" />
+    <att name="score" type="real" value="1270.0" />
+    <att name="bitscore" type="real" value="493.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e77" label="A0A1M6IUT3 -- A0A4U7JHB8" source="A0A1M6IUT3" target="A0A4U7JHB8">
+    <att name="pident" type="real" value="55.155" />
+    <att name="coverage" type="real" value="0.796715" />
+    <att name="evalue" type="real" value="2.56e-156" />
+    <att name="score" type="real" value="1141.0" />
+    <att name="bitscore" type="real" value="444.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e78" label="A0A1V4SIV9 -- A0A4U7JHB8" source="A0A1V4SIV9" target="A0A4U7JHB8">
+    <att name="pident" type="real" value="52.195" />
+    <att name="coverage" type="real" value="0.82" />
+    <att name="evalue" type="real" value="5.08e-158" />
+    <att name="score" type="real" value="1153.0" />
+    <att name="bitscore" type="real" value="448.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e79" label="A0A371AW33 -- A0A926E8K1" source="A0A371AW33" target="A0A926E8K1">
+    <att name="pident" type="real" value="51.078" />
+    <att name="coverage" type="real" value="0.933602" />
+    <att name="evalue" type="real" value="1.85e-176" />
+    <att name="score" type="real" value="1279.0" />
+    <att name="bitscore" type="real" value="497.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e80" label="A0A369B4K0 -- A0A3S1DK06" source="A0A369B4K0" target="A0A3S1DK06">
+    <att name="pident" type="real" value="53.602" />
+    <att name="coverage" type="real" value="0.880597" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1382.0" />
+    <att name="bitscore" type="real" value="536.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e81" label="A0A3S1DK06 -- B8I5G7" source="A0A3S1DK06" target="B8I5G7">
+    <att name="pident" type="real" value="50.855" />
+    <att name="coverage" type="real" value="0.957055" />
+    <att name="evalue" type="real" value="2.43e-173" />
+    <att name="score" type="real" value="1258.0" />
+    <att name="bitscore" type="real" value="489.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e82" label="A0A3S1DK06 -- A0A4U7JHB8" source="A0A3S1DK06" target="A0A4U7JHB8">
+    <att name="pident" type="real" value="53.866" />
+    <att name="coverage" type="real" value="0.793456" />
+    <att name="evalue" type="real" value="6.44e-159" />
+    <att name="score" type="real" value="1158.0" />
+    <att name="bitscore" type="real" value="450.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e83" label="A0A4U7JEZ2 -- A0A4U7JHB8" source="A0A4U7JEZ2" target="A0A4U7JHB8">
+    <att name="pident" type="real" value="51.908" />
+    <att name="coverage" type="real" value="0.813665" />
+    <att name="evalue" type="real" value="8.85e-155" />
+    <att name="score" type="real" value="1130.0" />
+    <att name="bitscore" type="real" value="439.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e84" label="A0A369B4K0 -- A0A4U7JHB8" source="A0A369B4K0" target="A0A4U7JHB8">
+    <att name="pident" type="real" value="56.743" />
+    <att name="coverage" type="real" value="0.852495" />
+    <att name="evalue" type="real" value="2.8e-163" />
+    <att name="score" type="real" value="1185.0" />
+    <att name="bitscore" type="real" value="461.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e85" label="A0A4U7JHB8 -- A0ABR8PWL1" source="A0A4U7JHB8" target="A0ABR8PWL1">
+    <att name="pident" type="real" value="55.584" />
+    <att name="coverage" type="real" value="0.875556" />
+    <att name="evalue" type="real" value="4.88e-159" />
+    <att name="score" type="real" value="1158.0" />
+    <att name="bitscore" type="real" value="450.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e86" label="A0A4U7JHB8 -- A0ABQ5N9D1" source="A0A4U7JHB8" target="A0ABQ5N9D1">
+    <att name="pident" type="real" value="53.846" />
+    <att name="coverage" type="real" value="0.890411" />
+    <att name="evalue" type="real" value="2.64e-154" />
+    <att name="score" type="real" value="1126.0" />
+    <att name="bitscore" type="real" value="438.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e87" label="A0A4U7JHB8 -- A0ABX3GIL4" source="A0A4U7JHB8" target="A0ABX3GIL4">
+    <att name="pident" type="real" value="50.9" />
+    <att name="coverage" type="real" value="0.94878" />
+    <att name="evalue" type="real" value="1.23e-143" />
+    <att name="score" type="real" value="1054.0" />
+    <att name="bitscore" type="real" value="410.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e88" label="A0A4U7JHB8 -- A0A7I8DQZ3" source="A0A4U7JHB8" target="A0A7I8DQZ3">
+    <att name="pident" type="real" value="50.259" />
+    <att name="coverage" type="real" value="0.943765" />
+    <att name="evalue" type="real" value="1.61e-140" />
+    <att name="score" type="real" value="1034.0" />
+    <att name="bitscore" type="real" value="402.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e89" label="A0A4U7JHB8 -- A0AB74VGP6" source="A0A4U7JHB8" target="A0AB74VGP6">
+    <att name="pident" type="real" value="50.0" />
+    <att name="coverage" type="real" value="0.963325" />
+    <att name="evalue" type="real" value="9.08e-140" />
+    <att name="score" type="real" value="1030.0" />
+    <att name="bitscore" type="real" value="401.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e90" label="A0A917CQ19 -- A0A974PDM3" source="A0A917CQ19" target="A0A974PDM3">
+    <att name="pident" type="real" value="51.386" />
+    <att name="coverage" type="real" value="0.866913" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1395.0" />
+    <att name="bitscore" type="real" value="541.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e91" label="A0A369B4K0 -- A0ABQ5N9D1" source="A0A369B4K0" target="A0ABQ5N9D1">
+    <att name="pident" type="real" value="50.0" />
+    <att name="coverage" type="real" value="0.987448" />
+    <att name="evalue" type="real" value="7.36e-167" />
+    <att name="score" type="real" value="1216.0" />
+    <att name="bitscore" type="real" value="473.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e92" label="A0ABX3GIL4 -- A0ACB5UQ49" source="A0ABX3GIL4" target="A0ACB5UQ49">
+    <att name="pident" type="real" value="60.171" />
+    <att name="coverage" type="real" value="0.750804" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1605.0" />
+    <att name="bitscore" type="real" value="622.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e93" label="A0A7V7UC57 -- A0AAE3D875" source="A0A7V7UC57" target="A0AAE3D875">
+    <att name="pident" type="real" value="51.282" />
+    <att name="coverage" type="real" value="0.960986" />
+    <att name="evalue" type="real" value="7.57e-173" />
+    <att name="score" type="real" value="1254.0" />
+    <att name="bitscore" type="real" value="487.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+  <edge id="e94" label="A0AB74VGP6 -- R4KAL5" source="A0AB74VGP6" target="R4KAL5">
+    <att name="pident" type="real" value="66.527" />
+    <att name="coverage" type="real" value="0.723147" />
+    <att name="evalue" type="real" value="0.0" />
+    <att name="score" type="real" value="1705.0" />
+    <att name="bitscore" type="real" value="661.0" />
+    <graphics fill="#aeb7c1" width="1.4" />
+  </edge>
+</graph>

@@ -1,0 +1,1548 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d11" for="edge" attr.name="bitscore" attr.type="double" />
+  <key id="d10" for="edge" attr.name="score" attr.type="double" />
+  <key id="d9" for="edge" attr.name="evalue" attr.type="double" />
+  <key id="d8" for="edge" attr.name="coverage" attr.type="double" />
+  <key id="d7" for="edge" attr.name="pident" attr.type="double" />
+  <key id="d6" for="node" attr.name="degree" attr.type="long" />
+  <key id="d5" for="node" attr.name="cluster" attr.type="long" />
+  <key id="d4" for="node" attr.name="ec_number" attr.type="string" />
+  <key id="d3" for="node" attr.name="reviewed" attr.type="string" />
+  <key id="d2" for="node" attr.name="length" attr.type="string" />
+  <key id="d1" for="node" attr.name="organism" attr.type="string" />
+  <key id="d0" for="node" attr.name="protein_name" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="A0A089MGG8">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Paenibacillus graminis</data>
+      <data key="d2">474</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">2</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0A090Y6L5">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Paenibacillus macerans (Bacillus macerans)</data>
+      <data key="d2">482</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">9</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A132U102">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Paenibacillus riograndensis</data>
+      <data key="d2">474</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">2</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0A1B7XFM5">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Halodesulfovibrio spirochaetisodalis</data>
+      <data key="d2">472</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">10</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A1I5BIG8">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Anaerocolumna aminovalerica</data>
+      <data key="d2">470</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">11</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A1I5HLK3">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Anaerocolumna aminovalerica</data>
+      <data key="d2">462</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">12</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A1I6ID59">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Anaeromicropila populeti</data>
+      <data key="d2">468</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">13</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A1M5Q6V5">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Butyrivibrio fibrisolvens DSM 3071</data>
+      <data key="d2">475</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">14</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A1M5Q7S6">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Butyrivibrio fibrisolvens DSM 3071</data>
+      <data key="d2">472</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">6</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0A1M5WBP3">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Sporobacter termitidis DSM 10068</data>
+      <data key="d2">469</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">3</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0A1M5ZFC1">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Sporobacter termitidis DSM 10068</data>
+      <data key="d2">470</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">15</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A1M6DMP5">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Lutispora thermophila DSM 19022</data>
+      <data key="d2">482</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">5</data>
+    </node>
+    <node id="A0A1M6IUT3">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Clostridium cavendishii DSM 21758</data>
+      <data key="d2">487</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">5</data>
+    </node>
+    <node id="A0A1M6R452">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Clostridium cavendishii DSM 21758</data>
+      <data key="d2">475</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="A0A1S8MEP9">
+      <data key="d0">GTP 3',8-cyclase</data>
+      <data key="d1">Clostridium felsineum</data>
+      <data key="d2">470</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">16</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A1V4SIV9">
+      <data key="d0">Anaerobic sulfatase-maturating enzyme (EC 1.1.99.-)</data>
+      <data key="d1">Ruminiclostridium hungatei (Clostridium hungatei)</data>
+      <data key="d2">500</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4">1.1.99.-</data>
+      <data key="d5">1</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="A0A222WTU8">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Paenibacillus kribbensis</data>
+      <data key="d2">485</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="A0A2G7HJP2">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Clostridium combesii</data>
+      <data key="d2">477</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="A0A2G7HK26">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Clostridium combesii</data>
+      <data key="d2">476</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">17</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A2Y9BCU3">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Faecalicatena orotica</data>
+      <data key="d2">474</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">18</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A2Z2KGL7">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Paenibacillus donghaensis</data>
+      <data key="d2">474</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">19</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A316AEB4">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Faecalicatena contorta</data>
+      <data key="d2">470</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">5</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="A0A318XIS8">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Ruminiclostridium sufflavum DSM 19573</data>
+      <data key="d2">464</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0A318XNJ9">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Ruminiclostridium sufflavum DSM 19573</data>
+      <data key="d2">482</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0A369AVH6">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Anaerobacterium chartisolvens</data>
+      <data key="d2">472</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">4</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0A369B1C5">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Anaerobacterium chartisolvens</data>
+      <data key="d2">491</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">10</data>
+    </node>
+    <node id="A0A369B4K0">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Anaerobacterium chartisolvens</data>
+      <data key="d2">476</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">12</data>
+    </node>
+    <node id="A0A371AW33">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Anaerosacchariphilus polymeriproducens</data>
+      <data key="d2">474</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">3</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="A0A371AW76">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Anaerosacchariphilus polymeriproducens</data>
+      <data key="d2">495</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">3</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0A371JCH1">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Lachnotalea glycerini</data>
+      <data key="d2">470</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">20</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A3E3K3Z4">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Sellimonas intestinalis</data>
+      <data key="d2">481</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">5</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0A3S1DK06">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Paenibacillus anaericanus</data>
+      <data key="d2">489</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">12</data>
+    </node>
+    <node id="A0A410QEY9">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Acidilutibacter cellobiosedens</data>
+      <data key="d2">492</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">21</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A4P5P9A6">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Enterococcus florum</data>
+      <data key="d2">475</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">22</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A4U7J5T3">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Ruminiclostridium herbifermentans</data>
+      <data key="d2">475</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">23</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A4U7JBU2">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Ruminiclostridium herbifermentans</data>
+      <data key="d2">478</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">7</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0A4U7JEZ2">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Ruminiclostridium herbifermentans</data>
+      <data key="d2">483</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="A0A4U7JFA3">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Ruminiclostridium herbifermentans</data>
+      <data key="d2">500</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="A0A4U7JH14">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Ruminiclostridium herbifermentans</data>
+      <data key="d2">482</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">9</data>
+    </node>
+    <node id="A0A4U7JHB8">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Ruminiclostridium herbifermentans</data>
+      <data key="d2">409</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">19</data>
+    </node>
+    <node id="A0A544QTM5">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Peptacetobacter hominis</data>
+      <data key="d2">463</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">24</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A6N7Y3R2">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Tissierella pigra</data>
+      <data key="d2">472</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">25</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A7I8DQZ3">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Anaerocolumna chitinilytica</data>
+      <data key="d2">468</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">5</data>
+    </node>
+    <node id="A0A7V7UC57">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Candidatus Galacturonatibacter soehngenii</data>
+      <data key="d2">475</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">4</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0A7X2H9E5">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Paenibacillus monticola</data>
+      <data key="d2">475</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">2</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0A8J8MAQ8">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Vallitalea guaymasensis</data>
+      <data key="d2">480</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">26</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A917CQ19">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Paenibacillus albidus</data>
+      <data key="d2">476</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">2</data>
+      <data key="d6">5</data>
+    </node>
+    <node id="A0A926E8K1">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Zongyangia hominis</data>
+      <data key="d2">473</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">3</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0A974PDM3">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Paenibacillus sonchi</data>
+      <data key="d2">475</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">2</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0A9R0BHM2">
+      <data key="d0">Radical SAM-family protein</data>
+      <data key="d1">Clostridioides difficile (strain R20291) (Peptoclostridium difficile)</data>
+      <data key="d2">473</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">27</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0A9W6C648">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Sellimonas catena</data>
+      <data key="d2">482</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">5</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0AAE3A6G0">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Waltera acetigignens</data>
+      <data key="d2">476</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">6</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0AAE3D875">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Waltera acetigignens</data>
+      <data key="d2">468</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">4</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="A0AAJ3MH73">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Paenibacillus polymyxa (Bacillus polymyxa)</data>
+      <data key="d2">482</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">28</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0AB74VGP6">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Clostridium beijerinckii (Clostridium MP)</data>
+      <data key="d2">480</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="A0ABM8I4V8">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Claveliimonas bilis</data>
+      <data key="d2">443</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">29</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0ABQ1EES2">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Clostridium zeae</data>
+      <data key="d2">476</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">30</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0ABQ5N9D1">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Clostridium omnivorum</data>
+      <data key="d2">478</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="A0ABR5T0G5">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Paenibacillus jilunlii</data>
+      <data key="d2">461</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">2</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0ABR8PWL1">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Clostridium cibarium</data>
+      <data key="d2">488</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0ABR8PX90">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Clostridium cibarium</data>
+      <data key="d2">470</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">31</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0ABR9RLL8">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Claveliimonas monacensis</data>
+      <data key="d2">465</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">8</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0ABS1EMX1">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Clostridium yunnanense</data>
+      <data key="d2">474</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">32</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0ABS4FNR3">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Paenibacillus turicensis</data>
+      <data key="d2">470</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">33</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0ABS6EZ52">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Clostridium simiarum</data>
+      <data key="d2">478</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">5</data>
+    </node>
+    <node id="A0ABT4D852">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Clostridium brassicae</data>
+      <data key="d2">464</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">34</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0ABU0KWL2">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Paenibacillus brasilensis</data>
+      <data key="d2">484</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">35</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0ABU0L1R6">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Paenibacillus brasilensis</data>
+      <data key="d2">492</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">36</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0ABU1QMY2">
+      <data key="d0">Radical SAM core domain-containing protein</data>
+      <data key="d1">Paenibacillus peoriae</data>
+      <data key="d2">484</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">37</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0ABV1CNM1">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Blautia acetigignens</data>
+      <data key="d2">472</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">38</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0ABV1DXC8">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Solibaculum intestinale</data>
+      <data key="d2">492</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">39</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0ABV1GMV8">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Lachnospira hominis (ex Hitch et al. 2025)</data>
+      <data key="d2">478</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">40</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0ABV4JNI7">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Halodesulfovibrio aestuarii</data>
+      <data key="d2">479</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">41</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0ABX3GIL4">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Paenibacillus odorifer</data>
+      <data key="d2">467</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="A0ABX4K6Z5">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Clostridium sporogenes</data>
+      <data key="d2">476</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">42</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0ABY7AE09">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Lacrimispora xylanolytica</data>
+      <data key="d2">472</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">43</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0AC59G2V5">
+      <data key="d0">Radical SAM family protein</data>
+      <data key="d1">Clostridioides difficile ATCC 9689 = DSM 1296</data>
+      <data key="d2">475</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">44</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0AC61RQA0">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Petralouisia muris</data>
+      <data key="d2">464</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">8</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0AC61RUN0">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Petralouisia muris</data>
+      <data key="d2">481</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">45</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="A0AC61RUX4">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Petralouisia muris</data>
+      <data key="d2">493</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">4</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="A0ACB5UQ49">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Vallitalea maricola</data>
+      <data key="d2">474</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="A9KNC1">
+      <data key="d0">Radical SAM domain protein</data>
+      <data key="d1">Lachnoclostridium phytofermentans (strain ATCC 700394 / DSM 18823 / ISDg) (Clostridium phytofermentans)</data>
+      <data key="d2">464</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">46</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="B8I5G7">
+      <data key="d0">Radical SAM domain protein</data>
+      <data key="d1">Ruminiclostridium cellulolyticum (strain ATCC 35319 / DSM 5812 / JCM 6584 / H10) (Clostridium cellulolyticum)</data>
+      <data key="d2">462</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="B8I5P8">
+      <data key="d0">Radical SAM domain protein</data>
+      <data key="d1">Ruminiclostridium cellulolyticum (strain ATCC 35319 / DSM 5812 / JCM 6584 / H10) (Clostridium cellulolyticum)</data>
+      <data key="d2">468</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">47</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="B8I6T6">
+      <data key="d0">Radical SAM domain protein</data>
+      <data key="d1">Ruminiclostridium cellulolyticum (strain ATCC 35319 / DSM 5812 / JCM 6584 / H10) (Clostridium cellulolyticum)</data>
+      <data key="d2">486</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="C7GHL2">
+      <data key="d0">Anaerobic sulfatase-maturating enzyme (EC 1.8.98.-)</data>
+      <data key="d1">Roseburia intestinalis L1-82</data>
+      <data key="d2">469</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4">1.8.98.-</data>
+      <data key="d5">1</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="F1T814">
+      <data key="d0">Radical SAM domain protein</data>
+      <data key="d1">Ruminiclostridium papyrosolvens DSM 2782</data>
+      <data key="d2">478</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">48</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="F1TCD0">
+      <data key="d0">Radical SAM domain protein</data>
+      <data key="d1">Ruminiclostridium papyrosolvens DSM 2782</data>
+      <data key="d2">482</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="F1TDX1">
+      <data key="d0">Radical SAM domain protein</data>
+      <data key="d1">Ruminiclostridium papyrosolvens DSM 2782</data>
+      <data key="d2">468</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">49</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="M1LZU2">
+      <data key="d0">Radical SAM domain protein</data>
+      <data key="d1">Clostridium saccharoperbutylacetonicum N1-4(HMT)</data>
+      <data key="d2">478</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">50</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="M1MVT0">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Clostridium saccharoperbutylacetonicum N1-4(HMT)</data>
+      <data key="d2">473</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">6</data>
+    </node>
+    <node id="Q18CP8">
+      <data key="d0">Radical SAM-family protein</data>
+      <data key="d1">Clostridioides difficile (strain 630) (Peptoclostridium difficile)</data>
+      <data key="d2">473</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">51</data>
+      <data key="d6">0</data>
+    </node>
+    <node id="R4KAL5">
+      <data key="d0">Arylsulfatase regulator (Fe-S oxidoreductase)</data>
+      <data key="d1">Clostridium pasteurianum BC1</data>
+      <data key="d2">483</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="S0FMT6">
+      <data key="d0">Arylsulfatase regulator (Fe-S oxidoreductase)</data>
+      <data key="d1">Ruminiclostridium cellobioparum subsp. termitidis CT1112</data>
+      <data key="d2">476</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">15</data>
+    </node>
+    <node id="S0FN89">
+      <data key="d0">Arylsulfatase regulator (Fe-S oxidoreductase)</data>
+      <data key="d1">Ruminiclostridium cellobioparum subsp. termitidis CT1112</data>
+      <data key="d2">486</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="S0FNR8">
+      <data key="d0">Arylsulfatase regulator (Fe-S oxidoreductase)</data>
+      <data key="d1">Ruminiclostridium cellobioparum subsp. termitidis CT1112</data>
+      <data key="d2">483</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">1</data>
+      <data key="d6">7</data>
+    </node>
+    <node id="U5MYE6">
+      <data key="d0">Cys-rich peptide radical SAM maturase CcpM</data>
+      <data key="d1">Clostridium saccharobutylicum DSM 13864</data>
+      <data key="d2">481</data>
+      <data key="d3">unreviewed</data>
+      <data key="d4" />
+      <data key="d5">7</data>
+      <data key="d6">1</data>
+    </node>
+    <edge source="A0A089MGG8" target="A0A917CQ19">
+      <data key="d7">52.452</data>
+      <data key="d8">0.86055</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1405.0</data>
+      <data key="d11">545.0</data>
+    </edge>
+    <edge source="A0A132U102" target="A0A917CQ19">
+      <data key="d7">51.599</data>
+      <data key="d8">0.86372</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1399.0</data>
+      <data key="d11">543.0</data>
+    </edge>
+    <edge source="A0A1M5Q7S6" target="A0AAE3A6G0">
+      <data key="d7">51.046</data>
+      <data key="d8">0.959839</data>
+      <data key="d9">3.85e-177</data>
+      <data key="d10">1283.0</data>
+      <data key="d11">498.0</data>
+    </edge>
+    <edge source="A0A1M5WBP3" target="A0A371AW33">
+      <data key="d7">51.528</data>
+      <data key="d8">0.927126</data>
+      <data key="d9">9.88e-176</data>
+      <data key="d10">1273.0</data>
+      <data key="d11">494.0</data>
+    </edge>
+    <edge source="A0A1M6DMP5" target="A0A4U7JFA3">
+      <data key="d7">50.743</data>
+      <data key="d8">0.942</data>
+      <data key="d9">1.14e-168</data>
+      <data key="d10">1231.0</data>
+      <data key="d11">478.0</data>
+    </edge>
+    <edge source="A0A1M6DMP5" target="M1MVT0">
+      <data key="d7">50.955</data>
+      <data key="d8">0.971134</data>
+      <data key="d9">8.64e-172</data>
+      <data key="d10">1249.0</data>
+      <data key="d11">485.0</data>
+    </edge>
+    <edge source="A0A1M6DMP5" target="A0A2G7HJP2">
+      <data key="d7">51.055</data>
+      <data key="d8">0.948</data>
+      <data key="d9">9.08e-178</data>
+      <data key="d10">1288.0</data>
+      <data key="d11">500.0</data>
+    </edge>
+    <edge source="A0A1M6DMP5" target="A0A369B4K0">
+      <data key="d7">50.746</data>
+      <data key="d8">0.96701</data>
+      <data key="d9">1.23e-171</data>
+      <data key="d10">1248.0</data>
+      <data key="d11">485.0</data>
+    </edge>
+    <edge source="A0A1M6DMP5" target="A0A3S1DK06">
+      <data key="d7">50.107</data>
+      <data key="d8">0.971014</data>
+      <data key="d9">9.37e-171</data>
+      <data key="d10">1243.0</data>
+      <data key="d11">483.0</data>
+    </edge>
+    <edge source="A0A1M6IUT3" target="S0FMT6">
+      <data key="d7">51.983</data>
+      <data key="d8">0.95992</data>
+      <data key="d9">2.75e-177</data>
+      <data key="d10">1286.0</data>
+      <data key="d11">499.0</data>
+    </edge>
+    <edge source="A0A1M6IUT3" target="A0A369B1C5">
+      <data key="d7">50.833</data>
+      <data key="d8">0.96</data>
+      <data key="d9">1.8e-177</data>
+      <data key="d10">1288.0</data>
+      <data key="d11">500.0</data>
+    </edge>
+    <edge source="A0A1M6IUT3" target="A0A4U7JFA3">
+      <data key="d7">51.368</data>
+      <data key="d8">0.975359</data>
+      <data key="d9">2.3e-169</data>
+      <data key="d10">1236.0</data>
+      <data key="d11">480.0</data>
+    </edge>
+    <edge source="A0A1M6IUT3" target="A0A3S1DK06">
+      <data key="d7">51.34</data>
+      <data key="d8">0.983773</data>
+      <data key="d9">9.05e-175</data>
+      <data key="d10">1270.0</data>
+      <data key="d11">493.0</data>
+    </edge>
+    <edge source="A0A1M6IUT3" target="A0A4U7JHB8">
+      <data key="d7">55.155</data>
+      <data key="d8">0.796715</data>
+      <data key="d9">2.56e-156</data>
+      <data key="d10">1141.0</data>
+      <data key="d11">444.0</data>
+    </edge>
+    <edge source="A0A1M6R452" target="S0FMT6">
+      <data key="d7">53.219</data>
+      <data key="d8">0.903101</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1330.0</data>
+      <data key="d11">516.0</data>
+    </edge>
+    <edge source="A0A1M6R452" target="A0A7I8DQZ3">
+      <data key="d7">58.422</data>
+      <data key="d8">0.800341</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1510.0</data>
+      <data key="d11">586.0</data>
+    </edge>
+    <edge source="A0A1V4SIV9" target="A0A4U7JH14">
+      <data key="d7">50.427</data>
+      <data key="d8">0.970954</data>
+      <data key="d9">9.78e-168</data>
+      <data key="d10">1224.0</data>
+      <data key="d11">476.0</data>
+    </edge>
+    <edge source="A0A1V4SIV9" target="M1MVT0">
+      <data key="d7">50.526</data>
+      <data key="d8">0.989583</data>
+      <data key="d9">1.94e-169</data>
+      <data key="d10">1235.0</data>
+      <data key="d11">480.0</data>
+    </edge>
+    <edge source="A0A1V4SIV9" target="A0A4U7JHB8">
+      <data key="d7">52.195</data>
+      <data key="d8">0.82</data>
+      <data key="d9">5.08e-158</data>
+      <data key="d10">1153.0</data>
+      <data key="d11">448.0</data>
+    </edge>
+    <edge source="A0A222WTU8" target="A0ACB5UQ49">
+      <data key="d7">51.293</data>
+      <data key="d8">0.877127</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1362.0</data>
+      <data key="d11">529.0</data>
+    </edge>
+    <edge source="A0A222WTU8" target="C7GHL2">
+      <data key="d7">50.323</data>
+      <data key="d8">0.913556</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1312.0</data>
+      <data key="d11">509.0</data>
+    </edge>
+    <edge source="A0A2G7HJP2" target="M1MVT0">
+      <data key="d7">50.106</data>
+      <data key="d8">0.995772</data>
+      <data key="d9">3.27e-164</data>
+      <data key="d10">1198.0</data>
+      <data key="d11">466.0</data>
+    </edge>
+    <edge source="A0A316AEB4" target="A0A9W6C648">
+      <data key="d7">54.409</data>
+      <data key="d8">0.853211</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1405.0</data>
+      <data key="d11">545.0</data>
+    </edge>
+    <edge source="A0A316AEB4" target="A0A3E3K3Z4">
+      <data key="d7">54.194</data>
+      <data key="d8">0.856354</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1398.0</data>
+      <data key="d11">543.0</data>
+    </edge>
+    <edge source="A0A318XIS8" target="A0A4U7JHB8">
+      <data key="d7">52.455</data>
+      <data key="d8">0.834052</data>
+      <data key="d9">3.44e-145</data>
+      <data key="d10">1065.0</data>
+      <data key="d11">414.0</data>
+    </edge>
+    <edge source="A0A318XNJ9" target="S0FNR8">
+      <data key="d7">64.255</data>
+      <data key="d8">0.724191</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1674.0</data>
+      <data key="d11">649.0</data>
+    </edge>
+    <edge source="A0A369AVH6" target="A0AAE3D875">
+      <data key="d7">55.65</data>
+      <data key="d8">0.830088</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1456.0</data>
+      <data key="d11">565.0</data>
+    </edge>
+    <edge source="A0A369B1C5" target="A0A4U7JH14">
+      <data key="d7">51.05</data>
+      <data key="d8">0.931507</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1315.0</data>
+      <data key="d11">511.0</data>
+    </edge>
+    <edge source="A0A369B1C5" target="S0FMT6">
+      <data key="d7">51.782</data>
+      <data key="d8">0.919075</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1337.0</data>
+      <data key="d11">519.0</data>
+    </edge>
+    <edge source="A0A369B1C5" target="A0ABS6EZ52">
+      <data key="d7">53.333</data>
+      <data key="d8">0.923077</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1339.0</data>
+      <data key="d11">520.0</data>
+    </edge>
+    <edge source="A0A369B1C5" target="A0A369B4K0">
+      <data key="d7">52.708</data>
+      <data key="d8">0.923077</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1338.0</data>
+      <data key="d11">520.0</data>
+    </edge>
+    <edge source="A0A369B1C5" target="A0A3S1DK06">
+      <data key="d7">50.524</data>
+      <data key="d8">0.926214</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1327.0</data>
+      <data key="d11">515.0</data>
+    </edge>
+    <edge source="A0A369B1C5" target="A0A7I8DQZ3">
+      <data key="d7">51.688</data>
+      <data key="d8">0.9499</data>
+      <data key="d9">2.87e-177</data>
+      <data key="d10">1285.0</data>
+      <data key="d11">499.0</data>
+    </edge>
+    <edge source="A0A369B1C5" target="A0ABQ5N9D1">
+      <data key="d7">50.625</data>
+      <data key="d8">0.963855</data>
+      <data key="d9">1.93e-176</data>
+      <data key="d10">1281.0</data>
+      <data key="d11">498.0</data>
+    </edge>
+    <edge source="A0A369B1C5" target="B8I5G7">
+      <data key="d7">50.42</data>
+      <data key="d8">0.96945</data>
+      <data key="d9">9.52e-172</data>
+      <data key="d10">1248.0</data>
+      <data key="d11">485.0</data>
+    </edge>
+    <edge source="A0A369B1C5" target="A0A4U7JHB8">
+      <data key="d7">52.01</data>
+      <data key="d8">0.810591</data>
+      <data key="d9">8.42e-152</data>
+      <data key="d10">1111.0</data>
+      <data key="d11">432.0</data>
+    </edge>
+    <edge source="A0A369B4K0" target="A0A4U7JH14">
+      <data key="d7">50.636</data>
+      <data key="d8">0.973196</data>
+      <data key="d9">1.12e-171</data>
+      <data key="d10">1248.0</data>
+      <data key="d11">485.0</data>
+    </edge>
+    <edge source="A0A369B4K0" target="F1TCD0">
+      <data key="d7">50.535</data>
+      <data key="d8">0.96888</data>
+      <data key="d9">9.9e-167</data>
+      <data key="d10">1215.0</data>
+      <data key="d11">472.0</data>
+    </edge>
+    <edge source="A0A369B4K0" target="S0FMT6">
+      <data key="d7">50.0</data>
+      <data key="d8">0.987395</data>
+      <data key="d9">4.79e-165</data>
+      <data key="d10">1204.0</data>
+      <data key="d11">468.0</data>
+    </edge>
+    <edge source="A0A369B4K0" target="S0FNR8">
+      <data key="d7">50.753</data>
+      <data key="d8">0.962733</data>
+      <data key="d9">7.7e-166</data>
+      <data key="d10">1210.0</data>
+      <data key="d11">470.0</data>
+    </edge>
+    <edge source="A0A369B4K0" target="A0A4U7JFA3">
+      <data key="d7">50.316</data>
+      <data key="d8">0.95</data>
+      <data key="d9">9.51e-176</data>
+      <data key="d10">1277.0</data>
+      <data key="d11">496.0</data>
+    </edge>
+    <edge source="A0A369B4K0" target="M1MVT0">
+      <data key="d7">50.0</data>
+      <data key="d8">0.978992</data>
+      <data key="d9">2.39e-168</data>
+      <data key="d10">1225.0</data>
+      <data key="d11">476.0</data>
+    </edge>
+    <edge source="A0A369B4K0" target="A0ABS6EZ52">
+      <data key="d7">50.424</data>
+      <data key="d8">0.975207</data>
+      <data key="d9">2.51e-171</data>
+      <data key="d10">1245.0</data>
+      <data key="d11">484.0</data>
+    </edge>
+    <edge source="A0A369B4K0" target="A0A3S1DK06">
+      <data key="d7">53.602</data>
+      <data key="d8">0.880597</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1382.0</data>
+      <data key="d11">536.0</data>
+    </edge>
+    <edge source="A0A369B4K0" target="A0A4U7JHB8">
+      <data key="d7">56.743</data>
+      <data key="d8">0.852495</data>
+      <data key="d9">2.8e-163</data>
+      <data key="d10">1185.0</data>
+      <data key="d11">461.0</data>
+    </edge>
+    <edge source="A0A369B4K0" target="A0ABQ5N9D1">
+      <data key="d7">50.0</data>
+      <data key="d8">0.987448</data>
+      <data key="d9">7.36e-167</data>
+      <data key="d10">1216.0</data>
+      <data key="d11">473.0</data>
+    </edge>
+    <edge source="A0A371AW33" target="A0A371AW76">
+      <data key="d7">55.076</data>
+      <data key="d8">0.857407</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1391.0</data>
+      <data key="d11">540.0</data>
+    </edge>
+    <edge source="A0A371AW33" target="A0A926E8K1">
+      <data key="d7">51.078</data>
+      <data key="d8">0.933602</data>
+      <data key="d9">1.85e-176</data>
+      <data key="d10">1279.0</data>
+      <data key="d11">497.0</data>
+    </edge>
+    <edge source="A0A3S1DK06" target="A0A4U7JH14">
+      <data key="d7">50.108</data>
+      <data key="d8">0.95679</data>
+      <data key="d9">5.05e-172</data>
+      <data key="d10">1252.0</data>
+      <data key="d11">486.0</data>
+    </edge>
+    <edge source="A0A3S1DK06" target="S0FMT6">
+      <data key="d7">51.702</data>
+      <data key="d8">0.938124</data>
+      <data key="d9">6.53e-178</data>
+      <data key="d10">1290.0</data>
+      <data key="d11">501.0</data>
+    </edge>
+    <edge source="A0A3S1DK06" target="S0FNR8">
+      <data key="d7">50.321</data>
+      <data key="d8">0.966874</data>
+      <data key="d9">1.07e-170</data>
+      <data key="d10">1243.0</data>
+      <data key="d11">483.0</data>
+    </edge>
+    <edge source="A0A3S1DK06" target="B8I6T6">
+      <data key="d7">50.107</data>
+      <data key="d8">0.965021</data>
+      <data key="d9">1.9e-169</data>
+      <data key="d10">1235.0</data>
+      <data key="d11">480.0</data>
+    </edge>
+    <edge source="A0A3S1DK06" target="M1MVT0">
+      <data key="d7">51.592</data>
+      <data key="d8">0.94012</data>
+      <data key="d9">8.48e-178</data>
+      <data key="d10">1289.0</data>
+      <data key="d11">501.0</data>
+    </edge>
+    <edge source="A0A3S1DK06" target="A0ABS6EZ52">
+      <data key="d7">50.633</data>
+      <data key="d8">0.951807</data>
+      <data key="d9">1.79e-176</data>
+      <data key="d10">1281.0</data>
+      <data key="d11">498.0</data>
+    </edge>
+    <edge source="A0A3S1DK06" target="B8I5G7">
+      <data key="d7">50.855</data>
+      <data key="d8">0.957055</data>
+      <data key="d9">2.43e-173</data>
+      <data key="d10">1258.0</data>
+      <data key="d11">489.0</data>
+    </edge>
+    <edge source="A0A3S1DK06" target="A0A4U7JHB8">
+      <data key="d7">53.866</data>
+      <data key="d8">0.793456</data>
+      <data key="d9">6.44e-159</data>
+      <data key="d10">1158.0</data>
+      <data key="d11">450.0</data>
+    </edge>
+    <edge source="A0A4U7JBU2" target="U5MYE6">
+      <data key="d7">61.169</data>
+      <data key="d8">0.741486</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1666.0</data>
+      <data key="d11">646.0</data>
+    </edge>
+    <edge source="A0A4U7JEZ2" target="A0A4U7JH14">
+      <data key="d7">51.042</data>
+      <data key="d8">0.963855</data>
+      <data key="d9">6.6e-177</data>
+      <data key="d10">1283.0</data>
+      <data key="d11">498.0</data>
+    </edge>
+    <edge source="A0A4U7JEZ2" target="S0FMT6">
+      <data key="d7">50.947</data>
+      <data key="d8">0.985477</data>
+      <data key="d9">1.66e-170</data>
+      <data key="d10">1240.0</data>
+      <data key="d11">482.0</data>
+    </edge>
+    <edge source="A0A4U7JEZ2" target="A0A4U7JHB8">
+      <data key="d7">51.908</data>
+      <data key="d8">0.813665</data>
+      <data key="d9">8.85e-155</data>
+      <data key="d10">1130.0</data>
+      <data key="d11">439.0</data>
+    </edge>
+    <edge source="A0A4U7JFA3" target="A0A4U7JHB8">
+      <data key="d7">54.453</data>
+      <data key="d8">0.786</data>
+      <data key="d9">7.27e-164</data>
+      <data key="d10">1192.0</data>
+      <data key="d11">463.0</data>
+    </edge>
+    <edge source="A0A4U7JH14" target="F1TCD0">
+      <data key="d7">63.655</data>
+      <data key="d8">0.721212</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1703.0</data>
+      <data key="d11">660.0</data>
+    </edge>
+    <edge source="A0A4U7JH14" target="S0FMT6">
+      <data key="d7">53.68</data>
+      <data key="d8">0.916667</data>
+      <data key="d9">3.4e-179</data>
+      <data key="d10">1298.0</data>
+      <data key="d11">504.0</data>
+    </edge>
+    <edge source="A0A4U7JH14" target="A0A7I8DQZ3">
+      <data key="d7">50.533</data>
+      <data key="d8">0.949393</data>
+      <data key="d9">2.65e-175</data>
+      <data key="d10">1271.0</data>
+      <data key="d11">494.0</data>
+    </edge>
+    <edge source="A0A4U7JH14" target="A0A4U7JHB8">
+      <data key="d7">52.538</data>
+      <data key="d8">0.817427</data>
+      <data key="d9">3.47e-147</data>
+      <data key="d10">1080.0</data>
+      <data key="d11">420.0</data>
+    </edge>
+    <edge source="A0A4U7JHB8" target="S0FMT6">
+      <data key="d7">55.27</data>
+      <data key="d8">0.817227</data>
+      <data key="d9">2.01e-152</data>
+      <data key="d10">1114.0</data>
+      <data key="d11">433.0</data>
+    </edge>
+    <edge source="A0A4U7JHB8" target="S0FN89">
+      <data key="d7">50.639</data>
+      <data key="d8">0.804527</data>
+      <data key="d9">5.86e-140</data>
+      <data key="d10">1032.0</data>
+      <data key="d11">402.0</data>
+    </edge>
+    <edge source="A0A4U7JHB8" target="S0FNR8">
+      <data key="d7">54.381</data>
+      <data key="d8">0.803313</data>
+      <data key="d9">1.02e-151</data>
+      <data key="d10">1110.0</data>
+      <data key="d11">432.0</data>
+    </edge>
+    <edge source="A0A4U7JHB8" target="M1MVT0">
+      <data key="d7">53.213</data>
+      <data key="d8">0.82241</data>
+      <data key="d9">2.62e-154</data>
+      <data key="d10">1126.0</data>
+      <data key="d11">438.0</data>
+    </edge>
+    <edge source="A0A4U7JHB8" target="A0ABS6EZ52">
+      <data key="d7">52.32</data>
+      <data key="d8">0.811715</data>
+      <data key="d9">2.69e-152</data>
+      <data key="d10">1113.0</data>
+      <data key="d11">433.0</data>
+    </edge>
+    <edge source="A0A4U7JHB8" target="A0ABR8PWL1">
+      <data key="d7">55.584</data>
+      <data key="d8">0.875556</data>
+      <data key="d9">4.88e-159</data>
+      <data key="d10">1158.0</data>
+      <data key="d11">450.0</data>
+    </edge>
+    <edge source="A0A4U7JHB8" target="A0ABQ5N9D1">
+      <data key="d7">53.846</data>
+      <data key="d8">0.890411</data>
+      <data key="d9">2.64e-154</data>
+      <data key="d10">1126.0</data>
+      <data key="d11">438.0</data>
+    </edge>
+    <edge source="A0A4U7JHB8" target="A0ABX3GIL4">
+      <data key="d7">50.9</data>
+      <data key="d8">0.94878</data>
+      <data key="d9">1.23e-143</data>
+      <data key="d10">1054.0</data>
+      <data key="d11">410.0</data>
+    </edge>
+    <edge source="A0A4U7JHB8" target="A0A7I8DQZ3">
+      <data key="d7">50.259</data>
+      <data key="d8">0.943765</data>
+      <data key="d9">1.61e-140</data>
+      <data key="d10">1034.0</data>
+      <data key="d11">402.0</data>
+    </edge>
+    <edge source="A0A4U7JHB8" target="A0AB74VGP6">
+      <data key="d7">50.0</data>
+      <data key="d8">0.963325</data>
+      <data key="d9">9.08e-140</data>
+      <data key="d10">1030.0</data>
+      <data key="d11">401.0</data>
+    </edge>
+    <edge source="A0A7I8DQZ3" target="S0FMT6">
+      <data key="d7">52.766</data>
+      <data key="d8">0.900383</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1344.0</data>
+      <data key="d11">522.0</data>
+    </edge>
+    <edge source="A0A7V7UC57" target="A0AAE3D875">
+      <data key="d7">51.282</data>
+      <data key="d8">0.960986</data>
+      <data key="d9">7.57e-173</data>
+      <data key="d10">1254.0</data>
+      <data key="d11">487.0</data>
+    </edge>
+    <edge source="A0A7X2H9E5" target="A0A917CQ19">
+      <data key="d7">52.137</data>
+      <data key="d8">0.878049</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1373.0</data>
+      <data key="d11">533.0</data>
+    </edge>
+    <edge source="A0A917CQ19" target="A0ABR5T0G5">
+      <data key="d7">52.391</data>
+      <data key="d8">0.859813</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1379.0</data>
+      <data key="d11">535.0</data>
+    </edge>
+    <edge source="A0A917CQ19" target="A0A974PDM3">
+      <data key="d7">51.386</data>
+      <data key="d8">0.866913</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1395.0</data>
+      <data key="d11">541.0</data>
+    </edge>
+    <edge source="A0AAE3D875" target="A0AC61RUX4">
+      <data key="d7">56.077</data>
+      <data key="d8">0.830088</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1455.0</data>
+      <data key="d11">565.0</data>
+    </edge>
+    <edge source="A0AB74VGP6" target="R4KAL5">
+      <data key="d7">66.527</data>
+      <data key="d8">0.723147</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1705.0</data>
+      <data key="d11">661.0</data>
+    </edge>
+    <edge source="A0ABR9RLL8" target="A0AC61RQA0">
+      <data key="d7">65.086</data>
+      <data key="d8">0.713846</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1676.0</data>
+      <data key="d11">650.0</data>
+    </edge>
+    <edge source="A0ABS6EZ52" target="S0FMT6">
+      <data key="d7">51.288</data>
+      <data key="d8">0.974895</data>
+      <data key="d9">8.05e-169</data>
+      <data key="d10">1229.0</data>
+      <data key="d11">478.0</data>
+    </edge>
+    <edge source="A0ABX3GIL4" target="C7GHL2">
+      <data key="d7">53.846</data>
+      <data key="d8">0.828319</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1457.0</data>
+      <data key="d11">565.0</data>
+    </edge>
+    <edge source="A0ABX3GIL4" target="A0ACB5UQ49">
+      <data key="d7">60.171</data>
+      <data key="d8">0.750804</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1605.0</data>
+      <data key="d11">622.0</data>
+    </edge>
+    <edge source="A0ACB5UQ49" target="C7GHL2">
+      <data key="d7">53.518</data>
+      <data key="d8">0.840502</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1439.0</data>
+      <data key="d11">558.0</data>
+    </edge>
+    <edge source="B8I5G7" target="S0FMT6">
+      <data key="d7">50.533</data>
+      <data key="d8">0.985294</data>
+      <data key="d9">1.06e-167</data>
+      <data key="d10">1220.0</data>
+      <data key="d11">474.0</data>
+    </edge>
+    <edge source="B8I6T6" target="S0FMT6">
+      <data key="d7">50.318</data>
+      <data key="d8">0.983299</data>
+      <data key="d9">1.73e-169</data>
+      <data key="d10">1234.0</data>
+      <data key="d11">479.0</data>
+    </edge>
+    <edge source="B8I6T6" target="S0FNR8">
+      <data key="d7">64.331</data>
+      <data key="d8">0.724615</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1678.0</data>
+      <data key="d11">650.0</data>
+    </edge>
+    <edge source="F1TCD0" target="S0FNR8">
+      <data key="d7">61.146</data>
+      <data key="d8">0.751196</data>
+      <data key="d9">0.0</data>
+      <data key="d10">1616.0</data>
+      <data key="d11">627.0</data>
+    </edge>
+    <edge source="R4KAL5" target="S0FMT6">
+      <data key="d7">50.107</data>
+      <data key="d8">0.985294</data>
+      <data key="d9">9.43e-166</data>
+      <data key="d10">1209.0</data>
+      <data key="d11">470.0</data>
+    </edge>
+    <edge source="S0FMT6" target="S0FNR8">
+      <data key="d7">53.017</data>
+      <data key="d8">0.915187</data>
+      <data key="d9">3.09e-180</data>
+      <data key="d10">1305.0</data>
+      <data key="d11">507.0</data>
+    </edge>
+    <edge source="S0FMT6" target="S0FN89">
+      <data key="d7">53.32</data>
+      <data key="d8">0.964</data>
+      <data key="d9">1.12e-177</data>
+      <data key="d10">1288.0</data>
+      <data key="d11">500.0</data>
+    </edge>
+  </graph>
+</graphml>
