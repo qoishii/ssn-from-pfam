@@ -1,0 +1,9 @@
+name: ssn-from-pfam
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.10
+  - blast
+  - graphviz
+  - networkx>=3.0
